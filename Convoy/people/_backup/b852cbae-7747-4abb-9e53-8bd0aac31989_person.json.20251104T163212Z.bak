@@ -1,0 +1,80 @@
+{
+  "person_id": "b852cbae-7747-4abb-9e53-8bd0aac31989",
+  "name": "Marie",
+  "circle": "Médiane",
+  "intimacy": 0.0,
+  "reliability": 0.0,
+  "valence": 0.0,
+  "energy_cost": 0.0,
+  "match_besoins": 0.0,
+  "needs_nourished": [],
+  "need_support": {
+    "Joie & jeu (affects positifs)": {
+      "minutes_per_week": 30.0,
+      "occ_per_week": 1.0
+    },
+    "Expression & compréhension émotionnelle": {
+      "minutes_per_week": 7.5,
+      "occ_per_week": 0.5
+    },
+    "Soutien pratique & fiabilité (instrumental/informationnel)": {
+      "minutes_per_week": 10.0,
+      "occ_per_week": 0.25
+    }
+  },
+  "contacts": [
+    {
+      "contact_id": "af558fa0-f454-40b2-9bb7-33b59a88e702",
+      "date": "2025-10-25",
+      "start": "18:30",
+      "end": "18:00",
+      "channel": "in_person",
+      "summary": "Dérivé de l’événement 2025-10-28-evenement-baa1. Nombreuses histoires divertissantes; co-hôte (repas, couchage).",
+      "source": "event:2025-10-28-evenement-baa1",
+      "event_id": "2025-10-28-evenement-baa1",
+      "needs_contrib": {
+        "Joie & jeu (affects positifs)": {
+          "minutes": 120.0,
+          "occ": 4.0
+        },
+        "Expression & compréhension émotionnelle": {
+          "minutes": 30.0,
+          "occ": 2.0
+        },
+        "Soutien pratique & fiabilité (instrumental/informationnel)": {
+          "minutes": 40.0,
+          "occ": 1.0
+        }
+      },
+      "minutes": 190,
+      "event_details": {
+        "title": "Soirée et nuit chez Adrien & Marie (nouvel appart)",
+        "context": "Première visite du nouvel appartement d’Adrien et Marie : trajets en voiture, repas pizzas, nuit sur place, discussions (techniques et réflexives), histoires, jeux de société, retour le lendemain.",
+        "location": "Chez Adrien et Marie (nouvel appartement)",
+        "channel": "in_person",
+        "per_person": {
+          "needs": {
+            "Joie & jeu (affects positifs)": {
+              "minutes": 120.0,
+              "occ": 4.0
+            },
+            "Expression & compréhension émotionnelle": {
+              "minutes": 30.0,
+              "occ": 2.0
+            },
+            "Soutien pratique & fiabilité (instrumental/informationnel)": {
+              "minutes": 40.0,
+              "occ": 1.0
+            }
+          },
+          "notes": "Nombreuses histoires divertissantes; co-hôte (repas, couchage)."
+        }
+      },
+      "journal_path": "people/b852cbae-7747-4abb-9e53-8bd0aac31989/contacts/af558fa0-f454-40b2-9bb7-33b59a88e702/journal.txt"
+    }
+  ],
+  "ambivalent": false,
+  "status": "",
+  "notes": "",
+  "contact_reminder_days": 0
+}

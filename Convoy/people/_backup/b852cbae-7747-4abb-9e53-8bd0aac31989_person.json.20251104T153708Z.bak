@@ -1,0 +1,17 @@
+{
+  "person_id": "b852cbae-7747-4abb-9e53-8bd0aac31989",
+  "name": "Marie",
+  "circle": "Médiane",
+  "intimacy": 0.0,
+  "reliability": 0.0,
+  "valence": 0.0,
+  "energy_cost": 0.0,
+  "match_besoins": 0.0,
+  "needs_nourished": [],
+  "need_support": {},
+  "contacts": [],
+  "ambivalent": false,
+  "status": "",
+  "notes": "",
+  "contact_reminder_days": 0
+}

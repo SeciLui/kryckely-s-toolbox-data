@@ -1,0 +1,28 @@
+{
+  "person_id": "0e27cca9-1e85-4ee6-a195-3a67825ccceb",
+  "name": "Pascal",
+  "circle": "Médiane",
+  "intimacy": 0.0,
+  "reliability": 0.0,
+  "valence": 0.0,
+  "energy_cost": 0.0,
+  "match_besoins": 0.0,
+  "needs_nourished": [],
+  "need_support": {},
+  "contacts": [
+    {
+      "contact_id": "321856c1-fca8-415e-a188-296a2df27d28",
+      "date": "2025-10-28",
+      "start": "18:30",
+      "end": "21:00",
+      "minutes": 150,
+      "audio_path": "people/0e27cca9-1e85-4ee6-a195-3a67825ccceb/contacts/321856c1-fca8-415e-a188-296a2df27d28/contact_audio_1mj7bk3c.wav",
+      "transcript_path": "people/0e27cca9-1e85-4ee6-a195-3a67825ccceb/contacts/321856c1-fca8-415e-a188-296a2df27d28/transcript.txt",
+      "journal_path": "people/0e27cca9-1e85-4ee6-a195-3a67825ccceb/contacts/321856c1-fca8-415e-a188-296a2df27d28/journal.txt"
+    }
+  ],
+  "ambivalent": false,
+  "status": "",
+  "notes": "",
+  "contact_reminder_days": 0
+}

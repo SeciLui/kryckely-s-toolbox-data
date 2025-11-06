@@ -1,0 +1,18 @@
+{
+  "event_id": "2025-11-01-evenement-da69",
+  "title": "Nouvel événement",
+  "date": "2025-10-31",
+  "start": "17:00",
+  "end": "02:00",
+  "channel": "in_person",
+  "context": "",
+  "location": "",
+  "participants": [
+    "Aïda",
+    "William"
+  ],
+  "summary": "",
+  "analysis_ref": {},
+  "audio_path": "events/assets/2025-11-01-evenement-da69/event_audio_qhe1ptnd.wav",
+  "transcript_path": "events/assets/2025-11-01-evenement-da69/transcript.txt"
+}

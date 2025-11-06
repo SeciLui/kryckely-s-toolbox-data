@@ -1,0 +1,20 @@
+{
+  "event_id": "2025-10-28-evenement-baa1",
+  "title": "Nouvel événement",
+  "date": "2025-10-25",
+  "start": "18:30",
+  "end": "18:00",
+  "channel": "in_person",
+  "context": "",
+  "location": "",
+  "participants": [
+    "Adrien",
+    "Allan",
+    "Aurélien",
+    "Marie"
+  ],
+  "summary": "",
+  "analysis_ref": {},
+  "audio_path": "events/assets/2025-10-28-evenement-baa1/event_audio_nfc9tbt8.wav",
+  "transcript_path": "events/assets/2025-10-28-evenement-baa1/transcript.txt"
+}

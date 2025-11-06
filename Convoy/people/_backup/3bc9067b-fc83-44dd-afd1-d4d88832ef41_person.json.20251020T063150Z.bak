@@ -1,0 +1,16 @@
+{
+  "person_id": "3bc9067b-fc83-44dd-afd1-d4d88832ef41",
+  "name": "Prénom",
+  "circle": "Médiane",
+  "intimacy": 0,
+  "reliability": 0,
+  "valence": 0,
+  "energy_cost": 0,
+  "match_besoins": 0,
+  "needs_nourished": [],
+  "need_support": {},
+  "contacts": [],
+  "ambivalent": false,
+  "status": "",
+  "notes": ""
+}

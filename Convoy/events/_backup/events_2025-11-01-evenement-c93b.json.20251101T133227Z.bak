@@ -1,0 +1,16 @@
+{
+  "event_id": "2025-11-01-evenement-c93b",
+  "title": "Nouvel événement",
+  "date": "2025-11-3",
+  "start": "",
+  "end": "",
+  "channel": "in_person",
+  "context": "",
+  "location": "",
+  "participants": [
+    "Allan",
+    "Aurélien"
+  ],
+  "summary": "",
+  "analysis_ref": {}
+}

@@ -1,0 +1,61 @@
+{
+  "person_id": "ad8dbf9a-2c86-452f-ab43-a2c755ab5225",
+  "name": "Charles-elie",
+  "circle": "Externe",
+  "intimacy": 0.0,
+  "reliability": 0.0,
+  "valence": 0.0,
+  "energy_cost": 0.0,
+  "match_besoins": 0.0,
+  "needs_nourished": [],
+  "need_support": {
+    "Joie & jeu (affects positifs)": {
+      "minutes_per_week": 12.5
+    },
+    "Co-création & collaboration (agir-avec)": {
+      "minutes_per_week": 2.5
+    }
+  },
+  "contacts": [
+    {
+      "contact_id": "8c76297e-336e-4ac5-abc0-d1b4b4fd17bf",
+      "date": "2025-10-16",
+      "start": "16:00",
+      "end": "23:20",
+      "channel": "in_person",
+      "summary": "Dérivé de l’événement 2025-10-18-evenement-d11e. Participation aux jeux, affinité modérée.",
+      "source": "event:2025-10-18-evenement-d11e",
+      "event_id": "2025-10-18-evenement-d11e",
+      "needs_contrib": {
+        "Joie & jeu (affects positifs)": {
+          "minutes": 50.0
+        },
+        "Co-création & collaboration (agir-avec)": {
+          "minutes": 10.0
+        }
+      },
+      "minutes": 60,
+      "event_details": {
+        "title": "Visite appart + jeux au Shrubbery + dîner libanais avec Joris",
+        "context": "Visite de l'appartement pour conseils design, soirée jeux de société avec amis, puis dîner et échanges profonds",
+        "location": "Le Shrubbery (bar à jeux, Villeurbanne) puis restaurant libanais (non précisé)",
+        "channel": "in_person",
+        "per_person": {
+          "needs": {
+            "Joie & jeu (affects positifs)": {
+              "minutes": 50.0
+            },
+            "Co-création & collaboration (agir-avec)": {
+              "minutes": 10.0
+            }
+          },
+          "notes": "Participation aux jeux, affinité modérée."
+        }
+      },
+      "journal_path": "people/ad8dbf9a-2c86-452f-ab43-a2c755ab5225/contacts/8c76297e-336e-4ac5-abc0-d1b4b4fd17bf/journal.txt"
+    }
+  ],
+  "ambivalent": false,
+  "status": "",
+  "notes": ""
+}

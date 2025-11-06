@@ -1,0 +1,18 @@
+{
+  "person_id": "2d671cdb-72cf-4b2d-88d0-ec308b833997",
+  "name": "Célie",
+  "circle": "Médiane",
+  "intimacy": 0.0,
+  "reliability": 0.0,
+  "valence": 0.0,
+  "energy_cost": 0.0,
+  "match_besoins": 0.0,
+  "needs_nourished": [],
+  "need_support": {},
+  "contacts": [],
+  "ambivalent": false,
+  "status": "",
+  "notes": "",
+  "contact_reminder_days": 30,
+  "contact_reminder_last_manual": ""
+}

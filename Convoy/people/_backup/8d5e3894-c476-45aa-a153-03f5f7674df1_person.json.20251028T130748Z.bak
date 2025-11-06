@@ -1,0 +1,16 @@
+{
+  "person_id": "8d5e3894-c476-45aa-a153-03f5f7674df1",
+  "name": "SansNom",
+  "circle": "Médiane",
+  "intimacy": 0.0,
+  "reliability": 0.0,
+  "valence": 0.0,
+  "energy_cost": 0.0,
+  "match_besoins": 0.0,
+  "needs_nourished": [],
+  "need_support": {},
+  "contacts": [],
+  "ambivalent": false,
+  "status": "",
+  "notes": ""
+}

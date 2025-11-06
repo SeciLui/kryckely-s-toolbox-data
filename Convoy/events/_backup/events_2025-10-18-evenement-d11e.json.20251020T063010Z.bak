@@ -1,0 +1,19 @@
+{
+  "event_id": "2025-10-18-evenement-d11e",
+  "title": "Nouvel événement",
+  "date": "2025-10-18",
+  "start": "",
+  "end": "",
+  "channel": "in_person",
+  "context": "",
+  "location": "",
+  "participants": [
+    "Aïda",
+    "Charles-elie",
+    "Joris",
+    "William"
+  ],
+  "summary": "test\n\n--- Transcription Vibe ---\nCeci est un test. Merci.",
+  "analysis_ref": {},
+  "audio_path": null
+}

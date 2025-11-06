@@ -1,0 +1,117 @@
+{
+  "event_id": "2025-10-20-evenement-f91d",
+  "title": "Rendez-vous hebdomadaire chez Clement (cofondation)",
+  "date": "2025-10-19",
+  "start": "17:00",
+  "end": "21:00",
+  "channel": "in_person",
+  "context": "Point hebdomadaire pour créer une boîte ensemble; échanges pro avec dimension personnelle (bilan, communication, rôles).",
+  "location": "Chez Clement",
+  "participants": [
+    "Clement",
+    "Pablo"
+  ],
+  "summary": "Rendez-vous hebdomadaire avec Clem et Pablo, les deux personnes avec qui je vais créer une boîte. On est sur des relations pro, mais plus plus quand même. C'est une espèce de relation un peu comme Joris au tout début. Et donc là, c'est chez Clem que ça s'est passé. Je venais de la discussion avec Eric et donc là, j'arrive chez Clem. Trop bien, il était très relax, plutôt plein d'énergie. Et c'est agréable. On s'écoute. On parle. Je ne me sens pas nécessairement limitée dans les choses que je veux dire véritablement. C'est assez intéressant parce qu'en fait, je me sens limitée quand il y a les deux. Mais par contre, je peux beaucoup parler avec Clem et beaucoup parler avec Pablo. Mais il me faut un peu plus de temps quand je discute avec Pablo pour ensuite m'ouvrir. Alors qu'avec Clem, ça se fait de plus en plus facilement au fur et à mesure des semaines. Donc on se voit une fois par semaine. Donc de 17h à 21h à peu près ça, à peu près ça. Et c'est soit une fois chez Pablo. Enfin, une fois sur deux, c'est chez Pablo. Une fois sur deux, c'est chez Clem. Voilà. Et donc, il y a toujours une grosse partie quand c'est chez Clem où je suis tout seul avec Clem. Et on a discuté. J'ai discuté de la fin de la vente à boulangerie. Comment je me suis senti. Le fait que j'étais fatigué. Je lui ai dit, écoute, cette semaine, je me suis reposé parce que j'étais mort. Et donc, je lui dis vraiment la vérité. Je lui dis... Voilà. Est-ce que j'ai vraiment des choses spécifiques ? Je sais que j'étais vraiment fatigué après, mais en même temps, j'avais mangé du sucre. Je ne m'étais pas... Je n'avais pas nécessairement fait attention. Et donc après, il n'y a pas Pablo qui est arrivé. Et là, j'étais un peu en espèce de somnolence. Il m'expliquait en fait ce qu'il avait fait comme travail. Moi, j'étais un peu en mode somnolence. J'écoutais. Je ne sais pas si ça se voyait. Et ensuite, on a continué. Je n'ai pas tant de souvenirs que ça. Pourtant, ça date d'hier soir. Mais ça s'est bien passé. Ça s'est bien passé. La suite a été moins deep. Était moins deep. Les discussions, que ce soit avec Clem ou même après, c'était aussi quand même sur cette histoire de communication. Sur le fait que ça fait un mois que je me questionne sur qu'est-ce que je fais. Et qu'est-ce qui serait bien que je fasse. Mais en fait, tout est clean. Je pense que je stresse par rapport à ce que j'apporte dans le projet vis-à-vis de eux. En fait, eux, ils sont OK. Et ils me disent, si jamais il y a quelque chose qui va pas, on te le dira de toute façon. Donc, voilà. C'est hebdomadaire. Pas tant de choses à dire. Plus que ça. Pour cette soirée. Eux, ils ont continué. Effectivement, moi, j'étais très fatigué. Donc, je pars un peu avant. Voilà. Merci. Merci.",
+  "analysis_ref": {
+    "version": 1,
+    "last_imported_at": "2025-10-20T13:54:17Z",
+    "hash_of_prompt": "90c1b0fdd1566e9b861e014787aa116032ae383d56c79e26d08d93db55e11ef0",
+    "hash_of_result": "95d2a7ac58fd3825d42e07597c02a4bb2b840202ae54b23e36bda2e94be99b5e"
+  },
+  "audio_path": "events/assets/2025-10-20-evenement-f91d/event_audio_s1lz3uyp.wav",
+  "transcript_path": "events/assets/2025-10-20-evenement-f91d/transcript.txt",
+  "analysis_result": {
+    "group_needs": {
+      "Appartenance & communauté": {
+        "minutes": 60.0,
+        "occ": 2.0
+      },
+      "Coprésence paisible & routine": {
+        "minutes": 180.0,
+        "occ": 1.0
+      },
+      "Joie & jeu (affects positifs)": {
+        "minutes": 30.0,
+        "occ": 1.0
+      }
+    },
+    "per_person": {
+      "Clement": {
+        "needs": {
+          "Expression & compréhension émotionnelle": {
+            "minutes": 50.0,
+            "occ": 3.0
+          },
+          "Calme & sécurité (co-régulation)": {
+            "minutes": 25.0,
+            "occ": 2.0
+          },
+          "Autonomie & respect des limites": {
+            "minutes": 10.0,
+            "occ": 1.0
+          },
+          "Reconnaissance & validation (estime sociale)": {
+            "minutes": 10.0,
+            "occ": 1.0
+          },
+          "Co-création & collaboration (agir-avec)": {
+            "minutes": 35.0,
+            "occ": 2.0
+          },
+          "Coprésence paisible & routine": {
+            "minutes": 40.0,
+            "occ": 1.0
+          }
+        },
+        "notes": "Ouverture de plus en plus fluide avec Clement; espace d’écoute pour parler vrai (fatigue, vérité sur la semaine)."
+      },
+      "Pablo": {
+        "needs": {
+          "Co-création & collaboration (agir-avec)": {
+            "minutes": 30.0,
+            "occ": 1.0
+          },
+          "Expression & compréhension émotionnelle": {
+            "minutes": 8.0,
+            "occ": 1.0
+          },
+          "Coprésence paisible & routine": {
+            "minutes": 20.0,
+            "occ": 1.0
+          },
+          "Reconnaissance & validation (estime sociale)": {
+            "minutes": 5.0,
+            "occ": 1.0
+          },
+          "Autonomie & respect des limites": {
+            "minutes": 5.0,
+            "occ": 1.0
+          }
+        },
+        "notes": "Arrivée plus tard; échanges moins « deep » car somnolence; ouverture demande plus de temps."
+      }
+    },
+    "event_details": {
+      "title": "Rendez-vous hebdomadaire chez Clement (cofondation)",
+      "context": "Point hebdomadaire pour créer une boîte ensemble; échanges pro avec dimension personnelle (bilan, communication, rôles).",
+      "location": "Chez Clement",
+      "channel": "in_person"
+    }
+  },
+  "state_before_after": {
+    "energy": [
+      1,
+      0
+    ],
+    "rumination": [
+      2,
+      1
+    ],
+    "mood": "+1"
+  },
+  "analysis_warnings": [
+    "Durées et moments estimés faute d’horodatage précis (arrivée de Pablo, départ anticipé).",
+    "« Clem » inféré comme « Clement » conformément à la liste des participants.",
+    "Mémoire de la soirée décrite comme floue; attribution conservatrice."
+  ]
+}

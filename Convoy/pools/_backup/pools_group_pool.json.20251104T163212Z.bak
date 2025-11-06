@@ -1,0 +1,150 @@
+{
+  "entries": {
+    "2025-10-18-evenement-d11e": {
+      "needs": {
+        "Appartenance & communauté": {
+          "minutes": 110.0,
+          "occ": 1.0
+        },
+        "Joie & jeu (affects positifs)": {
+          "minutes": 100.0,
+          "occ": 3.0
+        },
+        "Coprésence paisible & routine": {
+          "minutes": 60.0,
+          "occ": 1.0
+        },
+        "Co-création & collaboration (agir-avec)": {
+          "minutes": 20.0,
+          "occ": 1.0
+        },
+        "Nouveauté & exploration": {
+          "minutes": 10.0,
+          "occ": 1.0
+        }
+      },
+      "last_imported_at": "2025-10-20T14:00:43Z"
+    },
+    "2025-10-20-evenement-f91d": {
+      "needs": {
+        "Appartenance & communauté": {
+          "minutes": 60.0,
+          "occ": 2.0
+        },
+        "Coprésence paisible & routine": {
+          "minutes": 180.0,
+          "occ": 1.0
+        },
+        "Joie & jeu (affects positifs)": {
+          "minutes": 30.0,
+          "occ": 1.0
+        }
+      },
+      "last_imported_at": "2025-10-20T13:54:17Z"
+    },
+    "2025-10-25-evenement-dd85": {
+      "needs": {
+        "Appartenance & communauté": {
+          "minutes": 120.0,
+          "occ": 1.0
+        },
+        "Joie & jeu (affects positifs)": {
+          "minutes": 60.0,
+          "occ": 1.0
+        },
+        "Co-création & collaboration (agir-avec)": {
+          "minutes": 55.0,
+          "occ": 2.0
+        },
+        "Compétence & progression (apprentissage/maîtrise)": {
+          "minutes": 30.0,
+          "occ": 1.0
+        },
+        "Expression & compréhension émotionnelle": {
+          "minutes": 40.0,
+          "occ": 1.0
+        },
+        "Nouveauté & exploration": {
+          "minutes": 20.0,
+          "occ": 1.0
+        },
+        "Reconnaissance & validation (estime sociale)": {
+          "minutes": 10.0,
+          "occ": 1.0
+        }
+      },
+      "last_imported_at": "2025-10-28T13:11:54Z"
+    },
+    "2025-10-28-evenement-baa1": {
+      "needs": {
+        "Appartenance & communauté": {
+          "minutes": 240.0,
+          "occ": 6.0
+        },
+        "Joie & jeu (affects positifs)": {
+          "minutes": 180.0,
+          "occ": 4.0
+        },
+        "Coprésence paisible & routine": {
+          "minutes": 300.0,
+          "occ": 3.0
+        },
+        "Nouveauté & exploration": {
+          "minutes": 45.0,
+          "occ": 1.0
+        },
+        "Soutien pratique & fiabilité (instrumental/informationnel)": {
+          "minutes": 60.0,
+          "occ": 2.0
+        },
+        "Calme & sécurité (co-régulation)": {
+          "minutes": 60.0,
+          "occ": 2.0
+        }
+      },
+      "last_imported_at": "2025-11-04T15:37:08Z"
+    }
+  },
+  "totals": {
+    "Appartenance & communauté": {
+      "minutes": 530.0,
+      "occ": 10.0
+    },
+    "Joie & jeu (affects positifs)": {
+      "minutes": 370.0,
+      "occ": 9.0
+    },
+    "Coprésence paisible & routine": {
+      "minutes": 540.0,
+      "occ": 5.0
+    },
+    "Co-création & collaboration (agir-avec)": {
+      "minutes": 75.0,
+      "occ": 3.0
+    },
+    "Nouveauté & exploration": {
+      "minutes": 75.0,
+      "occ": 3.0
+    },
+    "Compétence & progression (apprentissage/maîtrise)": {
+      "minutes": 30.0,
+      "occ": 1.0
+    },
+    "Expression & compréhension émotionnelle": {
+      "minutes": 40.0,
+      "occ": 1.0
+    },
+    "Reconnaissance & validation (estime sociale)": {
+      "minutes": 10.0,
+      "occ": 1.0
+    },
+    "Soutien pratique & fiabilité (instrumental/informationnel)": {
+      "minutes": 60.0,
+      "occ": 2.0
+    },
+    "Calme & sécurité (co-régulation)": {
+      "minutes": 60.0,
+      "occ": 2.0
+    }
+  }
+}

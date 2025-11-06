@@ -1,0 +1,69 @@
+{
+  "person_id": "1816650a-6f3c-4d8d-bb8b-06fd9c1c9011",
+  "name": "Allan",
+  "circle": "Noyau",
+  "intimacy": 0.0,
+  "reliability": 0.0,
+  "valence": 0.0,
+  "energy_cost": 0.0,
+  "match_besoins": 0.0,
+  "needs_nourished": [],
+  "need_support": {
+    "Compétence & progression (apprentissage/maîtrise)": {
+      "minutes_per_week": 45.0,
+      "occ_per_week": 0.75
+    },
+    "Co-création & collaboration (agir-avec)": {
+      "minutes_per_week": 41.25,
+      "occ_per_week": 1.0
+    },
+    "Joie & jeu (affects positifs)": {
+      "minutes_per_week": 2.5,
+      "occ_per_week": 0.25
+    }
+  },
+  "contacts": [
+    {
+      "contact_id": "3265ed82-7a37-43f6-8384-c840fb6a76e6",
+      "date": "2025-10-31",
+      "start": "18:00",
+      "end": "02:00",
+      "minutes": 25,
+      "channel": "audio_call",
+      "journal_path": "people/1816650a-6f3c-4d8d-bb8b-06fd9c1c9011/contacts/3265ed82-7a37-43f6-8384-c840fb6a76e6/journal.txt"
+    },
+    {
+      "contact_id": "6f6657ab-7aaf-4e6e-90b1-3d1d54964790",
+      "date": "2025-10-27",
+      "start": "11:30",
+      "end": "19:00",
+      "minutes": 450,
+      "audio_path": "people/1816650a-6f3c-4d8d-bb8b-06fd9c1c9011/contacts/6f6657ab-7aaf-4e6e-90b1-3d1d54964790/contact_audio_qyuk49c7.wav",
+      "transcript_path": "people/1816650a-6f3c-4d8d-bb8b-06fd9c1c9011/contacts/6f6657ab-7aaf-4e6e-90b1-3d1d54964790/transcript.txt",
+      "journal_path": "people/1816650a-6f3c-4d8d-bb8b-06fd9c1c9011/contacts/6f6657ab-7aaf-4e6e-90b1-3d1d54964790/journal.txt"
+    },
+    {
+      "contact_id": "1ed558a8-fc50-404b-b0ae-ddc094a935fe",
+      "date": "2025-10-25",
+      "start": "18:30",
+      "end": "18:00",
+      "minutes": 330,
+      "channel": "in_person",
+      "journal_path": "people/1816650a-6f3c-4d8d-bb8b-06fd9c1c9011/contacts/1ed558a8-fc50-404b-b0ae-ddc094a935fe/journal.txt"
+    },
+    {
+      "contact_id": "b0ca769c-4b84-44f8-9926-aa8dabe7abd8",
+      "date": "2025-10-08",
+      "start": "18:00",
+      "end": "18:45",
+      "minutes": 45,
+      "audio_path": "people/1816650a-6f3c-4d8d-bb8b-06fd9c1c9011/contacts/b0ca769c-4b84-44f8-9926-aa8dabe7abd8/contact_audio_6e7gg239.wav",
+      "transcript_path": "people/1816650a-6f3c-4d8d-bb8b-06fd9c1c9011/contacts/b0ca769c-4b84-44f8-9926-aa8dabe7abd8/transcript.txt",
+      "journal_path": "people/1816650a-6f3c-4d8d-bb8b-06fd9c1c9011/contacts/b0ca769c-4b84-44f8-9926-aa8dabe7abd8/journal.txt"
+    }
+  ],
+  "ambivalent": false,
+  "status": "",
+  "notes": "",
+  "contact_reminder_days": 14
+}

@@ -1,0 +1,85 @@
+{
+  "event_id": "2025-11-01-evenement-c93b",
+  "title": "Soirée de jeu « Repo » sur Discord",
+  "date": "2025-10-31",
+  "start": "18:00",
+  "end": "02:00",
+  "channel": "audio_call",
+  "context": "Plusieurs parties avec des amis (dont Allan et Aurélien) ; fun pendant le jeu mais globalement peu nourrissant avec pas mal d’attente.",
+  "location": "Discord (en ligne)",
+  "participants": [
+    "Allan",
+    "Aurélien"
+  ],
+  "summary": "Ok, et bien j'ai fait... J'ai fait plusieurs parties de repos avec Alan, Aurélien et d'autres personnes qui sont des amis. Il y avait Charles aussi effectivement, il y avait Arthur, des personnes un peu externes eux, et d'autres personnes que j'ai rencontrées, que j'ai entendues. Il s'avère que c'était fun, que c'était bien, mais en même temps, c'est un mode... Voilà, on a été sur Discord, il y avait plein de gens, il y a eu beaucoup d'attentes, et pendant le jeu c'est fun, mais c'est pas nourrissant. C'est pas nourrissant, ça m'a plus pris de l'énergie que donné de l'énergie, en réalité. Et ça m'a... Voilà, c'est ce que j'ai ressenti en tout cas. Effectivement, j'ai passé... Enfin, c'était drôle. Il y avait... Il se passait pas mal de choses, mais encore une fois, ouais, c'est ça. C'est pas... J'ai pas l'impression que pour moi c'est nourrissant, c'est pas nécessairement ce que j'ai besoin. C'est parce que... Voilà, je me sens pas nécessairement moins seul en étant... Euh... En étant de cette manière-là. Voilà. Euh... En tout cas, c'était une bonne expérience. J'ai joué à Repo, euh... Je sais ce que c'est... Euh... Voilà. C'était cool, quand même. Je pense que je vais avoir envie de recommencer, mais euh... À plus de petites doses, et euh... Voilà. Dans un moment.",
+  "analysis_ref": {
+    "version": 1,
+    "last_imported_at": "2025-11-04T16:32:12Z",
+    "hash_of_prompt": "096a700ce71d669c12a2f803122487fb2f91d9828ea2212588a28c09c548acd3",
+    "hash_of_result": "18e0533efa9cad7187e0d2c97765a516d583fd04212e0223524bd9ff80085f79"
+  },
+  "audio_path": "events/assets/2025-11-01-evenement-c93b/event_audio_o360vpb7.wav",
+  "transcript_path": "events/assets/2025-11-01-evenement-c93b/transcript.txt",
+  "analysis_result": {
+    "group_needs": {
+      "Joie & jeu (affects positifs)": {
+        "minutes": 80.0,
+        "occ": 3.0
+      },
+      "Nouveauté & exploration": {
+        "minutes": 10.0,
+        "occ": 1.0
+      }
+    },
+    "per_person": {
+      "Allan": {
+        "needs": {
+          "Co-création & collaboration (agir-avec)": {
+            "minutes": 15.0,
+            "occ": 1.0
+          },
+          "Joie & jeu (affects positifs)": {
+            "minutes": 10.0,
+            "occ": 1.0
+          }
+        },
+        "notes": "Interactions de jeu partagées ; contributions estimées faute de détails ciblés."
+      },
+      "Aurélien": {
+        "needs": {
+          "Co-création & collaboration (agir-avec)": {
+            "minutes": 15.0,
+            "occ": 1.0
+          },
+          "Joie & jeu (affects positifs)": {
+            "minutes": 10.0,
+            "occ": 1.0
+          }
+        },
+        "notes": "Interactions de jeu partagées ; contributions estimées faute de détails ciblés."
+      }
+    },
+    "event_details": {
+      "title": "Soirée de jeu « Repo » sur Discord",
+      "context": "Plusieurs parties avec des amis (dont Allan et Aurélien) ; fun pendant le jeu mais globalement peu nourrissant avec pas mal d’attente.",
+      "location": "Discord (en ligne)",
+      "channel": "audio_call"
+    }
+  },
+  "state_before_after": {
+    "energy": [
+      1,
+      0
+    ],
+    "rumination": [
+      0,
+      1
+    ],
+    "mood": "0"
+  },
+  "analysis_warnings": [
+    "Peu d’indices précis par personne ; estimations conservatrices.",
+    "Le récit mentionne « Alan » ; mappé à « Allan » selon la liste de participants valide.",
+    "Beaucoup d’autres participants présents mais exclus selon la contrainte de liste fermée."
+  ]
+}

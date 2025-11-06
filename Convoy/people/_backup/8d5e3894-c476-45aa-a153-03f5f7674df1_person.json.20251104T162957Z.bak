@@ -1,0 +1,68 @@
+{
+  "person_id": "8d5e3894-c476-45aa-a153-03f5f7674df1",
+  "name": "Aurélien",
+  "circle": "Médiane",
+  "intimacy": 0.0,
+  "reliability": 0.0,
+  "valence": 0.0,
+  "energy_cost": 0.0,
+  "match_besoins": 0.0,
+  "needs_nourished": [],
+  "need_support": {
+    "Appartenance & communauté": {
+      "minutes_per_week": 2.5,
+      "occ_per_week": 0.5
+    },
+    "Coprésence paisible & routine": {
+      "minutes_per_week": 5.0,
+      "occ_per_week": 0.5
+    }
+  },
+  "contacts": [
+    {
+      "contact_id": "a784fadf-cb66-4e16-9cb7-3f94fc401046",
+      "date": "2025-10-25",
+      "start": "18:30",
+      "end": "18:00",
+      "channel": "in_person",
+      "summary": "Dérivé de l’événement 2025-10-28-evenement-baa1. Petites conversations en voiture, présence de trajet.",
+      "source": "event:2025-10-28-evenement-baa1",
+      "event_id": "2025-10-28-evenement-baa1",
+      "needs_contrib": {
+        "Appartenance & communauté": {
+          "minutes": 10.0,
+          "occ": 2.0
+        },
+        "Coprésence paisible & routine": {
+          "minutes": 20.0,
+          "occ": 2.0
+        }
+      },
+      "minutes": 30,
+      "event_details": {
+        "title": "Soirée et nuit chez Adrien & Marie (nouvel appart)",
+        "context": "Première visite du nouvel appartement d’Adrien et Marie : trajets en voiture, repas pizzas, nuit sur place, discussions (techniques et réflexives), histoires, jeux de société, retour le lendemain.",
+        "location": "Chez Adrien et Marie (nouvel appartement)",
+        "channel": "in_person",
+        "per_person": {
+          "needs": {
+            "Appartenance & communauté": {
+              "minutes": 10.0,
+              "occ": 2.0
+            },
+            "Coprésence paisible & routine": {
+              "minutes": 20.0,
+              "occ": 2.0
+            }
+          },
+          "notes": "Petites conversations en voiture, présence de trajet."
+        }
+      },
+      "journal_path": "people/8d5e3894-c476-45aa-a153-03f5f7674df1/contacts/a784fadf-cb66-4e16-9cb7-3f94fc401046/journal.txt"
+    }
+  ],
+  "ambivalent": false,
+  "status": "",
+  "notes": "",
+  "contact_reminder_days": 25
+}

@@ -1,0 +1,45 @@
+{
+  "person_id": "0af2fa32-f387-453f-811c-d70e005b02d1",
+  "name": "Aïda",
+  "circle": "Médiane",
+  "intimacy": 0.0,
+  "reliability": 0.0,
+  "valence": 0.0,
+  "energy_cost": 0.0,
+  "match_besoins": 0.0,
+  "needs_nourished": [],
+  "need_support": {
+    "Expression & compréhension émotionnelle": {
+      "minutes_per_week": 4.5
+    },
+    "Soutien pratique & fiabilité (instrumental/informationnel)": {
+      "minutes_per_week": 2.5
+    },
+    "Intimité & attachement": {
+      "minutes_per_week": 2.5
+    },
+    "Toucher & chaleur affective": {
+      "minutes_per_week": 0.5,
+      "occ_per_week": 0.5
+    },
+    "Joie & jeu (affects positifs)": {
+      "minutes_per_week": 2.5
+    }
+  },
+  "contacts": [
+    {
+      "contact_id": "0fdd1e19-0274-4256-bfa1-21358de2ca9f",
+      "date": "2025-10-16",
+      "start": "16:00",
+      "end": "23:20",
+      "minutes": 50,
+      "channel": "in_person",
+      "journal_path": "people/0af2fa32-f387-453f-811c-d70e005b02d1/contacts/0fdd1e19-0274-4256-bfa1-21358de2ca9f/journal.txt"
+    }
+  ],
+  "ambivalent": false,
+  "status": "",
+  "notes": "",
+  "contact_reminder_days": 0,
+  "contact_reminder_last_manual": ""
+}

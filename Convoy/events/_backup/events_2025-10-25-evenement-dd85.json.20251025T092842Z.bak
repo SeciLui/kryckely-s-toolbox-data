@@ -1,0 +1,15 @@
+{
+  "event_id": "2025-10-25-evenement-dd85",
+  "title": "Nouvel événement",
+  "date": "2025-10-24",
+  "start": "18:30",
+  "end": "01:00",
+  "channel": "in_person",
+  "context": "",
+  "location": "",
+  "participants": [],
+  "summary": "",
+  "analysis_ref": {},
+  "audio_path": "events/assets/2025-10-25-evenement-dd85/recording-20251025-012952.mp3",
+  "transcript_path": "events/assets/2025-10-25-evenement-dd85/transcript.txt"
+}

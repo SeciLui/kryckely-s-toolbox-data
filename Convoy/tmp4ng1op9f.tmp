@@ -1,0 +1,501 @@
+{
+  "workspace_version": 1,
+  "title": "Convoi relationnel de Kévin",
+  "owner": "Kevin",
+  "last_updated": "2025-11-04T15:07:48Z",
+  "people": [
+    {
+      "person_id": "d0ded39e-85d6-4777-9b44-d18c5f31e9db",
+      "name": "Marc",
+      "circle": "Médiane",
+      "person_path": "people/d0ded39e-85d6-4777-9b44-d18c5f31e9db/person.json",
+      "contacts": [
+        {
+          "contact_id": "0a3b2918-7f3c-4682-9782-60518ec0e5e7",
+          "journal_path": "people/d0ded39e-85d6-4777-9b44-d18c5f31e9db/contacts/0a3b2918-7f3c-4682-9782-60518ec0e5e7/journal.txt",
+          "transcript_path": "people/d0ded39e-85d6-4777-9b44-d18c5f31e9db/contacts/0a3b2918-7f3c-4682-9782-60518ec0e5e7/journal.txt"
+        }
+      ]
+    },
+    {
+      "person_id": "63d82906-49cc-44d8-83b5-13036f55d017",
+      "name": "William",
+      "circle": "Médiane",
+      "person_path": "people/63d82906-49cc-44d8-83b5-13036f55d017/person.json",
+      "contacts": [
+        {
+          "contact_id": "ff6be9e0-1fd4-4d5b-92a2-e6a06c9feab5",
+          "journal_path": "people/63d82906-49cc-44d8-83b5-13036f55d017/contacts/ff6be9e0-1fd4-4d5b-92a2-e6a06c9feab5/journal.txt",
+          "transcript_path": "people/63d82906-49cc-44d8-83b5-13036f55d017/contacts/ff6be9e0-1fd4-4d5b-92a2-e6a06c9feab5/transcript.txt",
+          "audio_path": "people/63d82906-49cc-44d8-83b5-13036f55d017/contacts/ff6be9e0-1fd4-4d5b-92a2-e6a06c9feab5/contact_audio_q26fi68q.wav"
+        },
+        {
+          "contact_id": "30e54716-bb4e-4cdc-a6fd-8ae154a3144c",
+          "journal_path": "people/63d82906-49cc-44d8-83b5-13036f55d017/contacts/30e54716-bb4e-4cdc-a6fd-8ae154a3144c/journal.txt"
+        },
+        {
+          "contact_id": "f80c3be6-719d-47e4-9253-9cc0a82f9060",
+          "journal_path": "people/63d82906-49cc-44d8-83b5-13036f55d017/contacts/f80c3be6-719d-47e4-9253-9cc0a82f9060/journal.txt",
+          "transcript_path": "people/63d82906-49cc-44d8-83b5-13036f55d017/contacts/f80c3be6-719d-47e4-9253-9cc0a82f9060/transcript.txt",
+          "audio_path": "people/63d82906-49cc-44d8-83b5-13036f55d017/contacts/f80c3be6-719d-47e4-9253-9cc0a82f9060/contact_audio_ju8vkosw.wav"
+        }
+      ]
+    },
+    {
+      "person_id": "1816650a-6f3c-4d8d-bb8b-06fd9c1c9011",
+      "name": "Allan",
+      "circle": "Noyau",
+      "person_path": "people/1816650a-6f3c-4d8d-bb8b-06fd9c1c9011/person.json",
+      "contacts": [
+        {
+          "contact_id": "6f6657ab-7aaf-4e6e-90b1-3d1d54964790",
+          "journal_path": "people/1816650a-6f3c-4d8d-bb8b-06fd9c1c9011/contacts/6f6657ab-7aaf-4e6e-90b1-3d1d54964790/journal.txt",
+          "transcript_path": "people/1816650a-6f3c-4d8d-bb8b-06fd9c1c9011/contacts/6f6657ab-7aaf-4e6e-90b1-3d1d54964790/transcript.txt",
+          "audio_path": "people/1816650a-6f3c-4d8d-bb8b-06fd9c1c9011/contacts/6f6657ab-7aaf-4e6e-90b1-3d1d54964790/contact_audio_qyuk49c7.wav"
+        },
+        {
+          "contact_id": "b0ca769c-4b84-44f8-9926-aa8dabe7abd8",
+          "journal_path": "people/1816650a-6f3c-4d8d-bb8b-06fd9c1c9011/contacts/b0ca769c-4b84-44f8-9926-aa8dabe7abd8/journal.txt",
+          "transcript_path": "people/1816650a-6f3c-4d8d-bb8b-06fd9c1c9011/contacts/b0ca769c-4b84-44f8-9926-aa8dabe7abd8/transcript.txt",
+          "audio_path": "people/1816650a-6f3c-4d8d-bb8b-06fd9c1c9011/contacts/b0ca769c-4b84-44f8-9926-aa8dabe7abd8/contact_audio_6e7gg239.wav"
+        }
+      ]
+    },
+    {
+      "person_id": "71abe08f-43dc-4200-b054-e31aca780e45",
+      "name": "Joris",
+      "circle": "Noyau",
+      "person_path": "people/71abe08f-43dc-4200-b054-e31aca780e45/person.json",
+      "contacts": [
+        {
+          "contact_id": "30ca4c49-c4e3-46c2-9669-8f4c6ce4e763",
+          "journal_path": "people/71abe08f-43dc-4200-b054-e31aca780e45/contacts/30ca4c49-c4e3-46c2-9669-8f4c6ce4e763/journal.txt"
+        }
+      ]
+    },
+    {
+      "person_id": "ad8dbf9a-2c86-452f-ab43-a2c755ab5225",
+      "name": "Charles-elie",
+      "circle": "Externe",
+      "person_path": "people/ad8dbf9a-2c86-452f-ab43-a2c755ab5225/person.json",
+      "contacts": [
+        {
+          "contact_id": "8c76297e-336e-4ac5-abc0-d1b4b4fd17bf",
+          "journal_path": "people/ad8dbf9a-2c86-452f-ab43-a2c755ab5225/contacts/8c76297e-336e-4ac5-abc0-d1b4b4fd17bf/journal.txt"
+        }
+      ]
+    },
+    {
+      "person_id": "0af2fa32-f387-453f-811c-d70e005b02d1",
+      "name": "Aïda",
+      "circle": "Médiane",
+      "person_path": "people/0af2fa32-f387-453f-811c-d70e005b02d1/person.json",
+      "contacts": [
+        {
+          "contact_id": "0fdd1e19-0274-4256-bfa1-21358de2ca9f",
+          "journal_path": "people/0af2fa32-f387-453f-811c-d70e005b02d1/contacts/0fdd1e19-0274-4256-bfa1-21358de2ca9f/journal.txt"
+        }
+      ]
+    },
+    {
+      "person_id": "bfbeb9b0-9076-485e-9dfc-65b6239cb316",
+      "name": "Pablo",
+      "circle": "Médiane",
+      "person_path": "people/bfbeb9b0-9076-485e-9dfc-65b6239cb316/person.json",
+      "contacts": [
+        {
+          "contact_id": "6c4d1e4e-3eea-4860-bf6b-4c9158662efd",
+          "journal_path": "people/bfbeb9b0-9076-485e-9dfc-65b6239cb316/contacts/6c4d1e4e-3eea-4860-bf6b-4c9158662efd/journal.txt"
+        }
+      ]
+    },
+    {
+      "person_id": "3bc9067b-fc83-44dd-afd1-d4d88832ef41",
+      "name": "Clement",
+      "circle": "Médiane",
+      "person_path": "people/3bc9067b-fc83-44dd-afd1-d4d88832ef41/person.json",
+      "contacts": [
+        {
+          "contact_id": "23e3064c-5626-414b-b890-3543cfc2c345",
+          "journal_path": "people/3bc9067b-fc83-44dd-afd1-d4d88832ef41/contacts/23e3064c-5626-414b-b890-3543cfc2c345/journal.txt"
+        }
+      ]
+    },
+    {
+      "person_id": "a7843b49-1d02-4600-b2d7-77ceb04c6e2a",
+      "name": "Erik",
+      "circle": "Médiane",
+      "person_path": "people/a7843b49-1d02-4600-b2d7-77ceb04c6e2a/person.json",
+      "contacts": [
+        {
+          "contact_id": "a873be81-4cca-46a0-a662-57d0caa08348",
+          "journal_path": "people/a7843b49-1d02-4600-b2d7-77ceb04c6e2a/contacts/a873be81-4cca-46a0-a662-57d0caa08348/journal.txt",
+          "transcript_path": "people/a7843b49-1d02-4600-b2d7-77ceb04c6e2a/contacts/a873be81-4cca-46a0-a662-57d0caa08348/transcript.txt",
+          "audio_path": "people/a7843b49-1d02-4600-b2d7-77ceb04c6e2a/contacts/a873be81-4cca-46a0-a662-57d0caa08348/contact_audio_0dajfyfy.wav"
+        }
+      ]
+    },
+    {
+      "person_id": "af4726e3-d9c6-42fb-a070-ef1b3114ab37",
+      "name": "Adrien",
+      "circle": "Médiane",
+      "person_path": "people/af4726e3-d9c6-42fb-a070-ef1b3114ab37/person.json",
+      "contacts": []
+    },
+    {
+      "person_id": "b852cbae-7747-4abb-9e53-8bd0aac31989",
+      "name": "Marie",
+      "circle": "Médiane",
+      "person_path": "people/b852cbae-7747-4abb-9e53-8bd0aac31989/person.json",
+      "contacts": []
+    },
+    {
+      "person_id": "8d5e3894-c476-45aa-a153-03f5f7674df1",
+      "name": "Aurélien",
+      "circle": "Médiane",
+      "person_path": "people/8d5e3894-c476-45aa-a153-03f5f7674df1/person.json",
+      "contacts": []
+    },
+    {
+      "person_id": "0e27cca9-1e85-4ee6-a195-3a67825ccceb",
+      "name": "Pascal",
+      "circle": "Médiane",
+      "person_path": "people/0e27cca9-1e85-4ee6-a195-3a67825ccceb/person.json",
+      "contacts": []
+    },
+    {
+      "person_id": "737cc56d-c9ce-417f-add9-c22ba886cb74",
+      "name": "Stré",
+      "circle": "Médiane",
+      "person_path": "people/737cc56d-c9ce-417f-add9-c22ba886cb74/person.json",
+      "contacts": []
+    },
+    {
+      "person_id": "2d671cdb-72cf-4b2d-88d0-ec308b833997",
+      "name": "Célie",
+      "circle": "Médiane",
+      "person_path": "people/2d671cdb-72cf-4b2d-88d0-ec308b833997/person.json",
+      "contacts": []
+    }
+  ],
+  "events": [
+    {
+      "event_id": "2025-10-18-evenement-d11e",
+      "title": "Visite appart + jeux au Shrubbery + dîner libanais avec Joris",
+      "event_path": "events/2025-10-18-evenement-d11e.json"
+    },
+    {
+      "event_id": "2025-10-20-evenement-f91d",
+      "title": "Rendez-vous hebdomadaire chez Clement (cofondation)",
+      "event_path": "events/2025-10-20-evenement-f91d.json"
+    },
+    {
+      "event_id": "2025-10-25-evenement-dd85",
+      "title": "Bœuf d’impro inter-groupes suivi d’un verre",
+      "event_path": "events/2025-10-25-evenement-dd85.json"
+    },
+    {
+      "event_id": "2025-10-28-evenement-baa1",
+      "title": "Nouvel événement",
+      "event_path": "events/2025-10-28-evenement-baa1.json"
+    },
+    {
+      "event_id": "2025-11-01-evenement-c93b",
+      "title": "Nouvel événement",
+      "event_path": "events/2025-11-01-evenement-c93b.json"
+    },
+    {
+      "event_id": "2025-11-01-evenement-da69",
+      "title": "Nouvel événement",
+      "event_path": "events/2025-11-01-evenement-da69.json"
+    }
+  ],
+  "identity": {
+    "version": "cards-v1",
+    "cards": [
+      {
+        "id": "b9372d9d-9ae4-4770-b1fc-69b4adbde5e3",
+        "title": "Je deviens un homme clair & vivant qui crée des liens profonds et faciles : je propose, j’écoute, je clarifie, je rassemble — même quand la pression sociale me fige — en ouvrant (bonjour/accroche), en allant en profondeur avec tact, et en montrant des preuves plutôt que des promesses",
+        "type": "Headline",
+        "piliers": [],
+        "related_antivaleurs": [],
+        "related_principes": [],
+        "sub_type": null,
+        "mode": "Stable",
+        "gp_sub_state": null,
+        "gp_episode": null,
+        "current_content": {
+          "description": ""
+        },
+        "attachments": [],
+        "history": [
+          {
+            "timestamp": "2025-11-02T10:27:53+01:00",
+            "event_type": "creation",
+            "payload": {
+              "title": "Je deviens un homme clair & vivant qui crée des liens profonds et faciles : je propose, j’écoute, je clarifie, je rassemble — même quand la pression sociale me fige — en ouvrant (bonjour/accroche), en allant en profondeur avec tact, et en montrant des preuves plutôt que des promesses",
+              "type": "Headline"
+            },
+            "author": null
+          }
+        ],
+        "calendar_index": {
+          "2025-11-02": [
+            "creation"
+          ]
+        }
+      },
+      {
+        "id": "9e104b08-df41-4b6d-a17a-28b7e49aa77e",
+        "title": "Proposer — offres réversibles, sans pression",
+        "type": "Pilier",
+        "piliers": [],
+        "related_antivaleurs": [],
+        "related_principes": [],
+        "sub_type": null,
+        "mode": "Stable",
+        "gp_sub_state": null,
+        "gp_episode": null,
+        "current_content": {
+          "description": ""
+        },
+        "attachments": [],
+        "history": [
+          {
+            "timestamp": "2025-11-02T10:29:06+01:00",
+            "event_type": "creation",
+            "payload": {
+              "title": "Proposer — offres réversibles, sans pression",
+              "type": "Pilier"
+            },
+            "author": null
+          }
+        ],
+        "calendar_index": {
+          "2025-11-02": [
+            "creation"
+          ]
+        }
+      },
+      {
+        "id": "4ccaecc1-d166-4eb4-a58e-0afec0d1004d",
+        "title": "Écouter — aller au fond, questions qui aident",
+        "type": "Pilier",
+        "piliers": [],
+        "related_antivaleurs": [],
+        "related_principes": [],
+        "sub_type": null,
+        "mode": "Stable",
+        "gp_sub_state": null,
+        "gp_episode": null,
+        "current_content": {
+          "description": ""
+        },
+        "attachments": [],
+        "history": [
+          {
+            "timestamp": "2025-11-02T10:29:58+01:00",
+            "event_type": "creation",
+            "payload": {
+              "title": "Écouter — aller au fond, questions qui aident",
+              "type": "Pilier"
+            },
+            "author": null
+          }
+        ],
+        "calendar_index": {
+          "2025-11-02": [
+            "creation"
+          ]
+        }
+      },
+      {
+        "id": "44d3daaa-e2d7-49cd-8c2d-451a7ea5e02e",
+        "title": "Clarifier — rendre simple, cadrer le décor & les attentes",
+        "type": "Pilier",
+        "piliers": [],
+        "related_antivaleurs": [],
+        "related_principes": [],
+        "sub_type": null,
+        "mode": "Stable",
+        "gp_sub_state": null,
+        "gp_episode": null,
+        "current_content": {
+          "description": ""
+        },
+        "attachments": [],
+        "history": [
+          {
+            "timestamp": "2025-11-02T10:30:15+01:00",
+            "event_type": "creation",
+            "payload": {
+              "title": "Clarifier — rendre simple, cadrer le décor & les attentes",
+              "type": "Pilier"
+            },
+            "author": null
+          }
+        ],
+        "calendar_index": {
+          "2025-11-02": [
+            "creation"
+          ]
+        }
+      },
+      {
+        "id": "4811c879-b13c-4893-bf93-dbaca80e5a84",
+        "title": "Rassembler — connecter des personnes, faire collaborer",
+        "type": "Pilier",
+        "piliers": [],
+        "related_antivaleurs": [],
+        "related_principes": [],
+        "sub_type": null,
+        "mode": "Stable",
+        "gp_sub_state": null,
+        "gp_episode": null,
+        "current_content": {
+          "description": ""
+        },
+        "attachments": [],
+        "history": [
+          {
+            "timestamp": "2025-11-02T10:30:30+01:00",
+            "event_type": "creation",
+            "payload": {
+              "title": "Rassembler — connecter des personnes, faire collaborer",
+              "type": "Pilier"
+            },
+            "author": null
+          }
+        ],
+        "calendar_index": {
+          "2025-11-02": [
+            "creation"
+          ]
+        }
+      },
+      {
+        "id": "2588760e-42f1-4476-bfba-6f9719b5a1fb",
+        "title": "Profondeur — échanges vrais, consentis, intenses",
+        "type": "Pilier",
+        "piliers": [],
+        "related_antivaleurs": [],
+        "related_principes": [],
+        "sub_type": null,
+        "mode": "Stable",
+        "gp_sub_state": null,
+        "gp_episode": null,
+        "current_content": {
+          "description": ""
+        },
+        "attachments": [],
+        "history": [
+          {
+            "timestamp": "2025-11-02T10:30:44+01:00",
+            "event_type": "creation",
+            "payload": {
+              "title": "Profondeur — échanges vrais, consentis, intenses",
+              "type": "Pilier"
+            },
+            "author": null
+          }
+        ],
+        "calendar_index": {
+          "2025-11-02": [
+            "creation"
+          ]
+        }
+      },
+      {
+        "id": "1733f6ba-1866-4073-8614-7b48a76c0ed6",
+        "title": "Auto-désinhibition par substances (alcool, tabac, drogue : non)",
+        "type": "Anti-valeur",
+        "piliers": [],
+        "related_antivaleurs": [],
+        "related_principes": [],
+        "sub_type": null,
+        "mode": "Stable",
+        "gp_sub_state": null,
+        "gp_episode": null,
+        "current_content": {
+          "description": ""
+        },
+        "attachments": [],
+        "history": [
+          {
+            "timestamp": "2025-11-02T10:32:39+01:00",
+            "event_type": "creation",
+            "payload": {
+              "title": "Auto-désinhibition par substances (alcool, tabac, drogue : non)",
+              "type": "Anti-valeur"
+            },
+            "author": null
+          }
+        ],
+        "calendar_index": {
+          "2025-11-02": [
+            "creation"
+          ]
+        }
+      },
+      {
+        "id": "db34e27f-7ee5-4624-a481-f8c1649d280e",
+        "title": "Binarisation / stéréotypes (catégoriser au lieu de demander)",
+        "type": "Anti-valeur",
+        "piliers": [],
+        "related_antivaleurs": [],
+        "related_principes": [],
+        "sub_type": null,
+        "mode": "Stable",
+        "gp_sub_state": null,
+        "gp_episode": null,
+        "current_content": {
+          "description": ""
+        },
+        "attachments": [],
+        "history": [
+          {
+            "timestamp": "2025-11-02T10:33:01+01:00",
+            "event_type": "creation",
+            "payload": {
+              "title": "Binarisation / stéréotypes (catégoriser au lieu de demander)",
+              "type": "Anti-valeur"
+            },
+            "author": null
+          }
+        ],
+        "calendar_index": {
+          "2025-11-02": [
+            "creation"
+          ]
+        }
+      },
+      {
+        "id": "34839847-39d2-44bb-bac8-df0718e119c9",
+        "title": "Pression / forçage (anti-consentement)",
+        "type": "Anti-valeur",
+        "piliers": [],
+        "related_antivaleurs": [],
+        "related_principes": [],
+        "sub_type": null,
+        "mode": "Stable",
+        "gp_sub_state": null,
+        "gp_episode": null,
+        "current_content": {
+          "description": ""
+        },
+        "attachments": [],
+        "history": [
+          {
+            "timestamp": "2025-11-02T10:33:17+01:00",
+            "event_type": "creation",
+            "payload": {
+              "title": "Pression / forçage (anti-consentement)",
+              "type": "Anti-valeur"
+            },
+            "author": null
+          }
+        ],
+        "calendar_index": {
+          "2025-11-02": [
+            "creation"
+          ]

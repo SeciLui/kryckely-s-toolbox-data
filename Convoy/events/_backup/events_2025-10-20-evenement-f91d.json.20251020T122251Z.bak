@@ -1,0 +1,16 @@
+{
+  "event_id": "2025-10-20-evenement-f91d",
+  "title": "Nouvel événement",
+  "date": "2025-10-19",
+  "start": "17:00",
+  "end": "21:00",
+  "channel": "in_person",
+  "context": "",
+  "location": "",
+  "participants": [
+    "Clement",
+    "Pablo"
+  ],
+  "summary": "",
+  "analysis_ref": {}
+}

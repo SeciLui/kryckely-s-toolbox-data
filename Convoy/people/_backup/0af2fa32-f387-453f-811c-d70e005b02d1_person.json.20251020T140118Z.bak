@@ -1,0 +1,91 @@
+{
+  "person_id": "0af2fa32-f387-453f-811c-d70e005b02d1",
+  "name": "Aïda",
+  "circle": "Médiane",
+  "intimacy": 0.0,
+  "reliability": 0.0,
+  "valence": 0.0,
+  "energy_cost": 0.0,
+  "match_besoins": 0.0,
+  "needs_nourished": [],
+  "need_support": {
+    "Expression & compréhension émotionnelle": {
+      "minutes_per_week": 4.5
+    },
+    "Soutien pratique & fiabilité (instrumental/informationnel)": {
+      "minutes_per_week": 2.5
+    },
+    "Intimité & attachement": {
+      "minutes_per_week": 2.5
+    },
+    "Toucher & chaleur affective": {
+      "minutes_per_week": 0.5,
+      "occ_per_week": 0.5
+    },
+    "Joie & jeu (affects positifs)": {
+      "minutes_per_week": 2.5
+    }
+  },
+  "contacts": [
+    {
+      "contact_id": "0fdd1e19-0274-4256-bfa1-21358de2ca9f",
+      "date": "2025-10-16",
+      "start": "16:00",
+      "end": "23:20",
+      "channel": "in_person",
+      "summary": "Dérivé de l’événement 2025-10-18-evenement-d11e. Une courte partie puis ~10–20 min d’échange profond en tête-à-tête, bise à l’arrivée et câlin au départ.",
+      "source": "event:2025-10-18-evenement-d11e",
+      "event_id": "2025-10-18-evenement-d11e",
+      "needs_contrib": {
+        "Expression & compréhension émotionnelle": {
+          "minutes": 18.0
+        },
+        "Soutien pratique & fiabilité (instrumental/informationnel)": {
+          "minutes": 10.0
+        },
+        "Intimité & attachement": {
+          "minutes": 10.0
+        },
+        "Toucher & chaleur affective": {
+          "minutes": 2.0,
+          "occ": 2.0
+        },
+        "Joie & jeu (affects positifs)": {
+          "minutes": 10.0
+        }
+      },
+      "minutes": 50,
+      "event_details": {
+        "title": "Visite appart + jeux au Shrubbery + dîner libanais avec Joris",
+        "context": "Visite de l'appartement pour conseils design, soirée jeux de société avec amis, puis dîner et échanges profonds",
+        "location": "Le Shrubbery (bar à jeux, Villeurbanne) puis restaurant libanais (non précisé)",
+        "channel": "in_person",
+        "per_person": {
+          "needs": {
+            "Expression & compréhension émotionnelle": {
+              "minutes": 18.0
+            },
+            "Soutien pratique & fiabilité (instrumental/informationnel)": {
+              "minutes": 10.0
+            },
+            "Intimité & attachement": {
+              "minutes": 10.0
+            },
+            "Toucher & chaleur affective": {
+              "minutes": 2.0,
+              "occ": 2.0
+            },
+            "Joie & jeu (affects positifs)": {
+              "minutes": 10.0
+            }
+          },
+          "notes": "Une courte partie puis ~10–20 min d’échange profond en tête-à-tête, bise à l’arrivée et câlin au départ."
+        }
+      },
+      "journal_path": "people/0af2fa32-f387-453f-811c-d70e005b02d1/contacts/0fdd1e19-0274-4256-bfa1-21358de2ca9f/journal.txt"
+    }
+  ],
+  "ambivalent": false,
+  "status": "",
+  "notes": ""
+}

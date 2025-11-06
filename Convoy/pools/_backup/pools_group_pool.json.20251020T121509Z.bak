@@ -1,0 +1,43 @@
+{
+  "entries": {
+    "2025-10-18-evenement-d11e": {
+      "needs": {
+        "Appartenance & communauté": {
+          "minutes": 60.0,
+          "occ": 1.0
+        },
+        "Joie & jeu (affects positifs)": {
+          "minutes": 70.0,
+          "occ": 3.0
+        },
+        "Co-création & collaboration (agir-avec)": {
+          "minutes": 20.0,
+          "occ": 1.0
+        },
+        "Coprésence paisible & routine": {
+          "minutes": 40.0,
+          "occ": 1.0
+        }
+      },
+      "last_imported_at": "2025-10-20T12:05:54Z"
+    }
+  },
+  "totals": {
+    "Appartenance & communauté": {
+      "minutes": 60.0,
+      "occ": 1.0
+    },
+    "Joie & jeu (affects positifs)": {
+      "minutes": 70.0,
+      "occ": 3.0
+    },
+    "Co-création & collaboration (agir-avec)": {
+      "minutes": 20.0,
+      "occ": 1.0
+    },
+    "Coprésence paisible & routine": {
+      "minutes": 40.0,
+      "occ": 1.0
+    }
+  }
+}

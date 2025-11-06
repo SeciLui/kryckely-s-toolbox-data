@@ -1,0 +1,40 @@
+{
+  "person_id": "af4726e3-d9c6-42fb-a070-ef1b3114ab37",
+  "name": "Adrien",
+  "circle": "Médiane",
+  "intimacy": 0.0,
+  "reliability": 0.0,
+  "valence": 0.0,
+  "energy_cost": 0.0,
+  "match_besoins": 0.0,
+  "needs_nourished": [],
+  "need_support": {
+    "Compétence & progression (apprentissage/maîtrise)": {
+      "minutes_per_week": 22.5,
+      "occ_per_week": 0.5
+    },
+    "Co-création & collaboration (agir-avec)": {
+      "minutes_per_week": 15.0,
+      "occ_per_week": 0.25
+    },
+    "Soutien pratique & fiabilité (instrumental/informationnel)": {
+      "minutes_per_week": 10.0,
+      "occ_per_week": 0.25
+    }
+  },
+  "contacts": [
+    {
+      "contact_id": "05819af6-4708-46be-ac41-cc34ae2037c7",
+      "date": "2025-10-25",
+      "start": "18:30",
+      "end": "18:00",
+      "minutes": 190,
+      "channel": "in_person",
+      "journal_path": "people/af4726e3-d9c6-42fb-a070-ef1b3114ab37/contacts/05819af6-4708-46be-ac41-cc34ae2037c7/journal.txt"
+    }
+  ],
+  "ambivalent": false,
+  "status": "",
+  "notes": "",
+  "contact_reminder_days": 0
+}

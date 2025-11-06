@@ -1,0 +1,35 @@
+{
+  "person_id": "ad8dbf9a-2c86-452f-ab43-a2c755ab5225",
+  "name": "Charles-elie",
+  "circle": "Externe",
+  "intimacy": 0.0,
+  "reliability": 0.0,
+  "valence": 0.0,
+  "energy_cost": 0.0,
+  "match_besoins": 0.0,
+  "needs_nourished": [],
+  "need_support": {
+    "Joie & jeu (affects positifs)": {
+      "minutes_per_week": 12.5
+    },
+    "Co-création & collaboration (agir-avec)": {
+      "minutes_per_week": 2.5
+    }
+  },
+  "contacts": [
+    {
+      "contact_id": "8c76297e-336e-4ac5-abc0-d1b4b4fd17bf",
+      "date": "2025-10-16",
+      "start": "16:00",
+      "end": "23:20",
+      "minutes": 60,
+      "channel": "in_person",
+      "journal_path": "people/ad8dbf9a-2c86-452f-ab43-a2c755ab5225/contacts/8c76297e-336e-4ac5-abc0-d1b4b4fd17bf/journal.txt"
+    }
+  ],
+  "ambivalent": false,
+  "status": "",
+  "notes": "",
+  "contact_reminder_days": 0,
+  "contact_reminder_last_manual": ""
+}

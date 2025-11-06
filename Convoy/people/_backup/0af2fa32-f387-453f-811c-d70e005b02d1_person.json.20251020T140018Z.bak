@@ -1,0 +1,41 @@
+{
+  "person_id": "0af2fa32-f387-453f-811c-d70e005b02d1",
+  "name": "Aïda",
+  "circle": "Médiane",
+  "intimacy": 0.0,
+  "reliability": 0.0,
+  "valence": 0.0,
+  "energy_cost": 0.0,
+  "match_besoins": 0.0,
+  "needs_nourished": [],
+  "need_support": {
+    "Expression & compréhension émotionnelle": {
+      "minutes_per_week": 3.75,
+      "occ_per_week": 0.25
+    },
+    "Soutien pratique & fiabilité (instrumental/informationnel)": {
+      "minutes_per_week": 1.25,
+      "occ_per_week": 0.25
+    },
+    "Reconnaissance & validation (estime sociale)": {
+      "minutes_per_week": 1.25,
+      "occ_per_week": 0.25
+    },
+    "Toucher & chaleur affective": {
+      "minutes_per_week": 0.5,
+      "occ_per_week": 0.5
+    },
+    "Joie & jeu (affects positifs)": {
+      "minutes_per_week": 2.5,
+      "occ_per_week": 0.25
+    },
+    "Intimité & attachement": {
+      "minutes_per_week": 1.25,
+      "occ_per_week": 0.25
+    }
+  },
+  "contacts": [],
+  "ambivalent": false,
+  "status": "",
+  "notes": ""
+}

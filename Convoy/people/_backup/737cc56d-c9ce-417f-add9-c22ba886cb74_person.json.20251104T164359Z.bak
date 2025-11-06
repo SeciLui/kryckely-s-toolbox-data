@@ -1,0 +1,17 @@
+{
+  "person_id": "737cc56d-c9ce-417f-add9-c22ba886cb74",
+  "name": "Stré",
+  "circle": "Médiane",
+  "intimacy": 0.0,
+  "reliability": 0.0,
+  "valence": 0.0,
+  "energy_cost": 0.0,
+  "match_besoins": 0.0,
+  "needs_nourished": [],
+  "need_support": {},
+  "contacts": [],
+  "ambivalent": false,
+  "status": "",
+  "notes": "",
+  "contact_reminder_days": 30
+}

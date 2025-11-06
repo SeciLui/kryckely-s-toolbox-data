@@ -1,0 +1,17 @@
+{
+  "person_id": "26586324-78c1-4810-b2c5-4a9b05997b4e",
+  "name": "Lina",
+  "circle": "Médiane",
+  "intimacy": 0.0,
+  "reliability": 0.0,
+  "valence": 0.0,
+  "energy_cost": 0.0,
+  "match_besoins": 0.0,
+  "needs_nourished": [],
+  "need_support": {},
+  "contacts": [],
+  "ambivalent": false,
+  "status": "",
+  "notes": "",
+  "contact_reminder_days": 30
+}

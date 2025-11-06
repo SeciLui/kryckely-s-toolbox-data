@@ -1,0 +1,68 @@
+{
+  "entries": {
+    "2025-10-18-evenement-d11e": {
+      "needs": {
+        "Appartenance & communauté": {
+          "minutes": 110.0,
+          "occ": 1.0
+        },
+        "Joie & jeu (affects positifs)": {
+          "minutes": 100.0,
+          "occ": 3.0
+        },
+        "Coprésence paisible & routine": {
+          "minutes": 60.0,
+          "occ": 1.0
+        },
+        "Co-création & collaboration (agir-avec)": {
+          "minutes": 20.0,
+          "occ": 1.0
+        },
+        "Nouveauté & exploration": {
+          "minutes": 10.0,
+          "occ": 1.0
+        }
+      },
+      "last_imported_at": "2025-10-20T14:00:43Z"
+    },
+    "2025-10-20-evenement-f91d": {
+      "needs": {
+        "Appartenance & communauté": {
+          "minutes": 60.0,
+          "occ": 2.0
+        },
+        "Coprésence paisible & routine": {
+          "minutes": 180.0,
+          "occ": 1.0
+        },
+        "Joie & jeu (affects positifs)": {
+          "minutes": 30.0,
+          "occ": 1.0
+        }
+      },
+      "last_imported_at": "2025-10-20T13:54:17Z"
+    }
+  },
+  "totals": {
+    "Appartenance & communauté": {
+      "minutes": 170.0,
+      "occ": 3.0
+    },
+    "Joie & jeu (affects positifs)": {
+      "minutes": 130.0,
+      "occ": 4.0
+    },
+    "Coprésence paisible & routine": {
+      "minutes": 240.0,
+      "occ": 2.0
+    },
+    "Co-création & collaboration (agir-avec)": {
+      "minutes": 20.0,
+      "occ": 1.0
+    },
+    "Nouveauté & exploration": {
+      "minutes": 10.0,
+      "occ": 1.0
+    }
+  }
+}
