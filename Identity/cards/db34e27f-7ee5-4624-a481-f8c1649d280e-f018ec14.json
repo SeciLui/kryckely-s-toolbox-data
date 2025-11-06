@@ -1,0 +1,32 @@
+{
+  "id": "db34e27f-7ee5-4624-a481-f8c1649d280e",
+  "title": "Binarisation / stéréotypes (catégoriser au lieu de demander)",
+  "type": "Anti-valeur",
+  "piliers": [],
+  "related_antivaleurs": [],
+  "related_principes": [],
+  "sub_type": null,
+  "mode": "Stable",
+  "gp_sub_state": null,
+  "gp_episode": null,
+  "current_content": {
+    "description": ""
+  },
+  "attachments": [],
+  "history": [
+    {
+      "timestamp": "2025-11-02T10:33:01+01:00",
+      "event_type": "creation",
+      "payload": {
+        "title": "Binarisation / stéréotypes (catégoriser au lieu de demander)",
+        "type": "Anti-valeur"
+      },
+      "author": null
+    }
+  ],
+  "calendar_index": {
+    "2025-11-02": [
+      "creation"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "b9372d9d-9ae4-4770-b1fc-69b4adbde5e3",
+  "title": "Je deviens un homme clair & vivant qui crée des liens profonds et faciles : je propose, j’écoute, je clarifie, je rassemble — même quand la pression sociale me fige — en ouvrant (bonjour/accroche), en allant en profondeur avec tact, et en montrant des preuves plutôt que des promesses",
+  "type": "Headline",
+  "piliers": [],
+  "related_antivaleurs": [],
+  "related_principes": [],
+  "sub_type": null,
+  "mode": "Stable",
+  "gp_sub_state": null,
+  "gp_episode": null,
+  "current_content": {
+    "description": ""
+  },
+  "attachments": [],
+  "history": [
+    {
+      "timestamp": "2025-11-02T10:27:53+01:00",
+      "event_type": "creation",
+      "payload": {
+        "title": "Je deviens un homme clair & vivant qui crée des liens profonds et faciles : je propose, j’écoute, je clarifie, je rassemble — même quand la pression sociale me fige — en ouvrant (bonjour/accroche), en allant en profondeur avec tact, et en montrant des preuves plutôt que des promesses",
+        "type": "Headline"
+      },
+      "author": null
+    }
+  ],
+  "calendar_index": {
+    "2025-11-02": [
+      "creation"
+    ]
+  }
+}

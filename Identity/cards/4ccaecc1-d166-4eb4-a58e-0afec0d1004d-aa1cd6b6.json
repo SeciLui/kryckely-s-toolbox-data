@@ -1,0 +1,32 @@
+{
+  "id": "4ccaecc1-d166-4eb4-a58e-0afec0d1004d",
+  "title": "Écouter — aller au fond, questions qui aident",
+  "type": "Pilier",
+  "piliers": [],
+  "related_antivaleurs": [],
+  "related_principes": [],
+  "sub_type": null,
+  "mode": "Stable",
+  "gp_sub_state": null,
+  "gp_episode": null,
+  "current_content": {
+    "description": ""
+  },
+  "attachments": [],
+  "history": [
+    {
+      "timestamp": "2025-11-02T10:29:58+01:00",
+      "event_type": "creation",
+      "payload": {
+        "title": "Écouter — aller au fond, questions qui aident",
+        "type": "Pilier"
+      },
+      "author": null
+    }
+  ],
+  "calendar_index": {
+    "2025-11-02": [
+      "creation"
+    ]
+  }
+}

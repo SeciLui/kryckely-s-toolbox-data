@@ -1,0 +1,32 @@
+{
+  "id": "199f525d-b998-49f0-8461-d463c935b60a",
+  "title": "Flou volontaire / omission sociale (laisser passer un bonjour aligné)",
+  "type": "Anti-valeur",
+  "piliers": [],
+  "related_antivaleurs": [],
+  "related_principes": [],
+  "sub_type": null,
+  "mode": "Stable",
+  "gp_sub_state": null,
+  "gp_episode": null,
+  "current_content": {
+    "description": ""
+  },
+  "attachments": [],
+  "history": [
+    {
+      "timestamp": "2025-11-02T10:33:27+01:00",
+      "event_type": "creation",
+      "payload": {
+        "title": "Flou volontaire / omission sociale (laisser passer un bonjour aligné)",
+        "type": "Anti-valeur"
+      },
+      "author": null
+    }
+  ],
+  "calendar_index": {
+    "2025-11-02": [
+      "creation"
+    ]
+  }
+}

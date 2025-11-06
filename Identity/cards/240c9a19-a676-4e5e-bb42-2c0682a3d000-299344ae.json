@@ -1,0 +1,32 @@
+{
+  "id": "240c9a19-a676-4e5e-bb42-2c0682a3d000",
+  "title": "Théâtre de performance (parler sans preuves)",
+  "type": "Anti-valeur",
+  "piliers": [],
+  "related_antivaleurs": [],
+  "related_principes": [],
+  "sub_type": null,
+  "mode": "Stable",
+  "gp_sub_state": null,
+  "gp_episode": null,
+  "current_content": {
+    "description": ""
+  },
+  "attachments": [],
+  "history": [
+    {
+      "timestamp": "2025-11-02T10:33:47+01:00",
+      "event_type": "creation",
+      "payload": {
+        "title": "Théâtre de performance (parler sans preuves)",
+        "type": "Anti-valeur"
+      },
+      "author": null
+    }
+  ],
+  "calendar_index": {
+    "2025-11-02": [
+      "creation"
+    ]
+  }
+}

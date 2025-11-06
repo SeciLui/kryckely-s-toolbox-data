@@ -1,0 +1,32 @@
+{
+  "id": "34839847-39d2-44bb-bac8-df0718e119c9",
+  "title": "Pression / forçage (anti-consentement)",
+  "type": "Anti-valeur",
+  "piliers": [],
+  "related_antivaleurs": [],
+  "related_principes": [],
+  "sub_type": null,
+  "mode": "Stable",
+  "gp_sub_state": null,
+  "gp_episode": null,
+  "current_content": {
+    "description": ""
+  },
+  "attachments": [],
+  "history": [
+    {
+      "timestamp": "2025-11-02T10:33:17+01:00",
+      "event_type": "creation",
+      "payload": {
+        "title": "Pression / forçage (anti-consentement)",
+        "type": "Anti-valeur"
+      },
+      "author": null
+    }
+  ],
+  "calendar_index": {
+    "2025-11-02": [
+      "creation"
+    ]
+  }
+}

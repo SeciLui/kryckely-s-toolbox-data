@@ -1,0 +1,43 @@
+{
+  "id": "1994d8d9-d3f6-4eb5-a359-02ed825f0310",
+  "title": "Cohérence",
+  "type": "Principe",
+  "piliers": [
+    "a9495ad0-512c-4e3f-9ac0-1dd4d87cfbfe"
+  ],
+  "related_antivaleurs": [],
+  "related_principes": [],
+  "sub_type": null,
+  "mode": "Stable",
+  "gp_sub_state": null,
+  "gp_episode": null,
+  "current_content": {
+    "description": ""
+  },
+  "attachments": [],
+  "history": [
+    {
+      "timestamp": "2025-11-03T10:28:59+01:00",
+      "event_type": "creation",
+      "payload": {
+        "title": "Cohérence",
+        "type": "Principe"
+      },
+      "author": null
+    },
+    {
+      "timestamp": "2025-11-03T10:28:59+01:00",
+      "event_type": "lien_pilier_add",
+      "payload": {
+        "pilier_id": "a9495ad0-512c-4e3f-9ac0-1dd4d87cfbfe"
+      },
+      "author": null
+    }
+  ],
+  "calendar_index": {
+    "2025-11-03": [
+      "creation",
+      "lien_pilier_add"
+    ]
+  }
+}

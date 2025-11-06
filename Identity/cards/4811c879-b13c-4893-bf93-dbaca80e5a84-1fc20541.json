@@ -1,0 +1,32 @@
+{
+  "id": "4811c879-b13c-4893-bf93-dbaca80e5a84",
+  "title": "Rassembler — connecter des personnes, faire collaborer",
+  "type": "Pilier",
+  "piliers": [],
+  "related_antivaleurs": [],
+  "related_principes": [],
+  "sub_type": null,
+  "mode": "Stable",
+  "gp_sub_state": null,
+  "gp_episode": null,
+  "current_content": {
+    "description": ""
+  },
+  "attachments": [],
+  "history": [
+    {
+      "timestamp": "2025-11-02T10:30:30+01:00",
+      "event_type": "creation",
+      "payload": {
+        "title": "Rassembler — connecter des personnes, faire collaborer",
+        "type": "Pilier"
+      },
+      "author": null
+    }
+  ],
+  "calendar_index": {
+    "2025-11-02": [
+      "creation"
+    ]
+  }
+}

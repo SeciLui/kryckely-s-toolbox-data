@@ -1,0 +1,32 @@
+{
+  "id": "9e104b08-df41-4b6d-a17a-28b7e49aa77e",
+  "title": "Proposer — offres réversibles, sans pression",
+  "type": "Pilier",
+  "piliers": [],
+  "related_antivaleurs": [],
+  "related_principes": [],
+  "sub_type": null,
+  "mode": "Stable",
+  "gp_sub_state": null,
+  "gp_episode": null,
+  "current_content": {
+    "description": ""
+  },
+  "attachments": [],
+  "history": [
+    {
+      "timestamp": "2025-11-02T10:29:06+01:00",
+      "event_type": "creation",
+      "payload": {
+        "title": "Proposer — offres réversibles, sans pression",
+        "type": "Pilier"
+      },
+      "author": null
+    }
+  ],
+  "calendar_index": {
+    "2025-11-02": [
+      "creation"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "a9495ad0-512c-4e3f-9ac0-1dd4d87cfbfe",
+  "title": "Quête de sens",
+  "type": "Pilier",
+  "piliers": [],
+  "related_antivaleurs": [],
+  "related_principes": [],
+  "sub_type": null,
+  "mode": "Stable",
+  "gp_sub_state": null,
+  "gp_episode": null,
+  "current_content": {
+    "description": ""
+  },
+  "attachments": [],
+  "history": [
+    {
+      "timestamp": "2025-11-03T10:28:39+01:00",
+      "event_type": "creation",
+      "payload": {
+        "title": "Quête de sens",
+        "type": "Pilier"
+      },
+      "author": null
+    }
+  ],
+  "calendar_index": {
+    "2025-11-03": [
+      "creation"
+    ]
+  }
+}
