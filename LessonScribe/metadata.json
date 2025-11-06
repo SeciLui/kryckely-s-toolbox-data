@@ -1,0 +1,31 @@
+{
+  "app": "Lesson Scribe",
+  "version": 1,
+  "last_updated": "2025-11-06T15:13:17.606852+00:00",
+  "lessons": [
+    {
+      "lesson_id": "d45aef6b-f2cb-4902-a70e-7839151387d3",
+      "lesson_path": "lessons/d45aef6b-f2cb-4902-a70e-7839151387d3/lesson.json"
+    },
+    {
+      "lesson_id": "77218276-5f13-4e82-a406-898fc8270a4e",
+      "lesson_path": "lessons/77218276-5f13-4e82-a406-898fc8270a4e/lesson.json"
+    },
+    {
+      "lesson_id": "fd2b1c10-dbed-433a-944f-8ad7b643a22a",
+      "lesson_path": "lessons/fd2b1c10-dbed-433a-944f-8ad7b643a22a/lesson.json"
+    },
+    {
+      "lesson_id": "d3c1e86f-b1b7-472d-846b-d8139668430d",
+      "lesson_path": "lessons/d3c1e86f-b1b7-472d-846b-d8139668430d/lesson.json"
+    },
+    {
+      "lesson_id": "708d2d05-f5ff-4f54-b607-4a78e7907609",
+      "lesson_path": "lessons/708d2d05-f5ff-4f54-b607-4a78e7907609/lesson.json"
+    },
+    {
+      "lesson_id": "a553e5b5-86e6-4e5a-83a4-fae8a963b107",
+      "lesson_path": "lessons/a553e5b5-86e6-4e5a-83a4-fae8a963b107/lesson.json"
+    }
+  ]
+}
