@@ -1,6 +1,6 @@
 {
-  "id": "db34e27f-7ee5-4624-a481-f8c1649d280e",
-  "title": "Binarisation / stéréotypes (catégoriser au lieu de demander)",
+  "id": "fbc5f5ac-cdb4-4fb5-8c39-4a06f894bd80",
+  "title": "Auto-négligence (laisser sucre/routine te dégrader plusieurs jours d’affilée)",
   "type": "Anti-valeur",
   "piliers": [],
   "related_antivaleurs": [],
@@ -15,17 +15,17 @@
   "attachments": [],
   "history": [
     {
-      "timestamp": "2025-11-02T10:33:01+01:00",
+      "timestamp": "2025-11-07T15:47:52+01:00",
       "event_type": "creation",
       "payload": {
-        "title": "Binarisation / stéréotypes (catégoriser au lieu de demander)",
+        "title": "Auto-négligence (laisser sucre/routine te dégrader plusieurs jours d’affilée)",
         "type": "Anti-valeur"
       },
       "author": null
     }
   ],
   "calendar_index": {
-    "2025-11-02": [
+    "2025-11-07": [
       "creation"
     ]
   }

@@ -1,7 +1,7 @@
 {
-  "id": "4811c879-b13c-4893-bf93-dbaca80e5a84",
-  "title": "Rassembler — connecter des personnes, faire collaborer",
-  "type": "Pilier",
+  "id": "54f94085-08eb-481d-a4b8-c6c49300055d",
+  "title": "Auto-désinhibition par substances (alcool, tabac, drogue : non)",
+  "type": "Anti-valeur",
   "piliers": [],
   "related_antivaleurs": [],
   "related_principes": [],
@@ -15,17 +15,17 @@
   "attachments": [],
   "history": [
     {
-      "timestamp": "2025-11-02T10:30:30+01:00",
+      "timestamp": "2025-11-07T11:28:57+01:00",
       "event_type": "creation",
       "payload": {
-        "title": "Rassembler — connecter des personnes, faire collaborer",
-        "type": "Pilier"
+        "title": "Auto-désinhibition par substances (alcool, tabac, drogue : non)",
+        "type": "Anti-valeur"
       },
       "author": null
     }
   ],
   "calendar_index": {
-    "2025-11-02": [
+    "2025-11-07": [
       "creation"
     ]
   }

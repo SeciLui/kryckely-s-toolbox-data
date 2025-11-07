@@ -1,7 +1,7 @@
 {
-  "id": "34839847-39d2-44bb-bac8-df0718e119c9",
-  "title": "Pression / forçage (anti-consentement)",
-  "type": "Anti-valeur",
+  "id": "ca6fe6d1-272b-440e-952c-86e3ad7c3743",
+  "title": "Écouter — aller au fond, questions qui aident",
+  "type": "Pilier",
   "piliers": [],
   "related_antivaleurs": [],
   "related_principes": [],
@@ -15,17 +15,17 @@
   "attachments": [],
   "history": [
     {
-      "timestamp": "2025-11-02T10:33:17+01:00",
+      "timestamp": "2025-11-07T15:47:20+01:00",
       "event_type": "creation",
       "payload": {
-        "title": "Pression / forçage (anti-consentement)",
-        "type": "Anti-valeur"
+        "title": "Écouter — aller au fond, questions qui aident",
+        "type": "Pilier"
       },
       "author": null
     }
   ],
   "calendar_index": {
-    "2025-11-02": [
+    "2025-11-07": [
       "creation"
     ]
   }

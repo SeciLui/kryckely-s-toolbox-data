@@ -1,20 +1,20 @@
 {
   "version": 2,
   "order": [
-    "b9372d9d-9ae4-4770-b1fc-69b4adbde5e3",
-    "9e104b08-df41-4b6d-a17a-28b7e49aa77e",
-    "4ccaecc1-d166-4eb4-a58e-0afec0d1004d",
-    "44d3daaa-e2d7-49cd-8c2d-451a7ea5e02e",
-    "4811c879-b13c-4893-bf93-dbaca80e5a84",
-    "2588760e-42f1-4476-bfba-6f9719b5a1fb",
-    "1733f6ba-1866-4073-8614-7b48a76c0ed6",
-    "db34e27f-7ee5-4624-a481-f8c1649d280e",
-    "34839847-39d2-44bb-bac8-df0718e119c9",
-    "199f525d-b998-49f0-8461-d463c935b60a",
-    "240c9a19-a676-4e5e-bb42-2c0682a3d000",
-    "75fb0c90-d9a6-4921-a9c2-ff734826e0ec",
-    "a9495ad0-512c-4e3f-9ac0-1dd4d87cfbfe",
-    "1994d8d9-d3f6-4eb5-a359-02ed825f0310"
+    "4944b8cd-cf21-48f4-8a3a-820d7edbb203",
+    "54f94085-08eb-481d-a4b8-c6c49300055d",
+    "09a42542-35d7-436d-9dd6-29115165c7c4",
+    "eefe6ce4-0d84-43a7-90bc-a637662225c5",
+    "19f98f3d-7c9e-4730-b4e5-d72652fcafbb",
+    "889952da-a4df-4e98-b54e-76e6a8d88746",
+    "794e37d1-3503-4672-a91b-099097e79a75",
+    "5bd5bfa5-2140-45f7-ba7e-5676d64aed7f",
+    "ca6fe6d1-272b-440e-952c-86e3ad7c3743",
+    "fbc5f5ac-cdb4-4fb5-8c39-4a06f894bd80",
+    "7244af28-ccec-4e9d-9db9-89e022fe3af6",
+    "5485f595-ba5d-47f3-a73e-9d4e4514a7ec",
+    "18fae170-a9bf-41eb-8bd9-fbb69614a05f",
+    "9e7331b2-b8bf-4755-8307-001e8258a1cf"
   ],
   "type_order": [
     "Headline",
@@ -27,17 +27,9 @@
   ],
   "hidden_types": [],
   "focus_state": {
-    "headlines": [
-      "b9372d9d-9ae4-4770-b1fc-69b4adbde5e3"
-    ],
-    "piliers": [
-      "9e104b08-df41-4b6d-a17a-28b7e49aa77e"
-    ],
-    "antivaleurs": [
-      "199f525d-b998-49f0-8461-d463c935b60a",
-      "34839847-39d2-44bb-bac8-df0718e119c9",
-      "240c9a19-a676-4e5e-bb42-2c0682a3d000"
-    ],
-    "started_at": "2025-11-03"
+    "headlines": [],
+    "piliers": [],
+    "antivaleurs": [],
+    "started_at": null
   }
 }

@@ -1,6 +1,6 @@
 {
-  "id": "44d3daaa-e2d7-49cd-8c2d-451a7ea5e02e",
-  "title": "Clarifier — rendre simple, cadrer le décor & les attentes",
+  "id": "5485f595-ba5d-47f3-a73e-9d4e4514a7ec",
+  "title": "Quête de sens",
   "type": "Pilier",
   "piliers": [],
   "related_antivaleurs": [],
@@ -15,17 +15,17 @@
   "attachments": [],
   "history": [
     {
-      "timestamp": "2025-11-02T10:30:15+01:00",
+      "timestamp": "2025-11-07T15:49:50+01:00",
       "event_type": "creation",
       "payload": {
-        "title": "Clarifier — rendre simple, cadrer le décor & les attentes",
+        "title": "Quête de sens",
         "type": "Pilier"
       },
       "author": null
     }
   ],
   "calendar_index": {
-    "2025-11-02": [
+    "2025-11-07": [
       "creation"
     ]
   }

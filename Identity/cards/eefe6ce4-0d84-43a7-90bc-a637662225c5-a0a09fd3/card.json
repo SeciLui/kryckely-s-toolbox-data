@@ -1,7 +1,7 @@
 {
-  "id": "4ccaecc1-d166-4eb4-a58e-0afec0d1004d",
-  "title": "Écouter — aller au fond, questions qui aident",
-  "type": "Pilier",
+  "id": "eefe6ce4-0d84-43a7-90bc-a637662225c5",
+  "title": "Flou volontaire / omission sociale (laisser passer un bonjour aligné)",
+  "type": "Anti-valeur",
   "piliers": [],
   "related_antivaleurs": [],
   "related_principes": [],
@@ -15,17 +15,17 @@
   "attachments": [],
   "history": [
     {
-      "timestamp": "2025-11-02T10:29:58+01:00",
+      "timestamp": "2025-11-07T15:38:33+01:00",
       "event_type": "creation",
       "payload": {
-        "title": "Écouter — aller au fond, questions qui aident",
-        "type": "Pilier"
+        "title": "Flou volontaire / omission sociale (laisser passer un bonjour aligné)",
+        "type": "Anti-valeur"
       },
       "author": null
     }
   ],
   "calendar_index": {
-    "2025-11-02": [
+    "2025-11-07": [
       "creation"
     ]
   }
