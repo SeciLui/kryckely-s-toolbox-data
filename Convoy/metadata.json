@@ -2,7 +2,7 @@
   "workspace_version": 1,
   "title": "Convoi relationnel de Kévin",
   "owner": "Kevin",
-  "last_updated": "2025-11-06T15:15:25Z",
+  "last_updated": "2025-11-07T14:54:33Z",
   "people": [
     {
       "person_id": "d0ded39e-85d6-4777-9b44-d18c5f31e9db",
@@ -70,6 +70,10 @@
           "journal_path": "people/1816650a-6f3c-4d8d-bb8b-06fd9c1c9011/contacts/b0ca769c-4b84-44f8-9926-aa8dabe7abd8/journal.txt",
           "transcript_path": "people/1816650a-6f3c-4d8d-bb8b-06fd9c1c9011/contacts/b0ca769c-4b84-44f8-9926-aa8dabe7abd8/transcript.txt",
           "audio_path": "people/1816650a-6f3c-4d8d-bb8b-06fd9c1c9011/contacts/b0ca769c-4b84-44f8-9926-aa8dabe7abd8/contact_audio_6e7gg239.wav"
+        },
+        {
+          "contact_id": "52feea96-9d85-4bc1-9479-99d0c09ffce4",
+          "journal_path": "people/1816650a-6f3c-4d8d-bb8b-06fd9c1c9011/contacts/52feea96-9d85-4bc1-9479-99d0c09ffce4/journal.txt"
         }
       ]
     },
@@ -277,7 +281,7 @@
     "version": "cards-v1",
     "cards": [
       {
-        "id": "b9372d9d-9ae4-4770-b1fc-69b4adbde5e3",
+        "id": "4944b8cd-cf21-48f4-8a3a-820d7edbb203",
         "title": "Je deviens un homme clair & vivant qui crée des liens profonds et faciles : je propose, j’écoute, je clarifie, je rassemble — même quand la pression sociale me fige — en ouvrant (bonjour/accroche), en allant en profondeur avec tact, et en montrant des preuves plutôt que des promesses",
         "type": "Headline",
         "piliers": [],
@@ -293,7 +297,7 @@
         "attachments": [],
         "history": [
           {
-            "timestamp": "2025-11-02T10:27:53+01:00",
+            "timestamp": "2025-11-07T11:28:17+01:00",
             "event_type": "creation",
             "payload": {
               "title": "Je deviens un homme clair & vivant qui crée des liens profonds et faciles : je propose, j’écoute, je clarifie, je rassemble — même quand la pression sociale me fige — en ouvrant (bonjour/accroche), en allant en profondeur avec tact, et en montrant des preuves plutôt que des promesses",
@@ -303,173 +307,13 @@
           }
         ],
         "calendar_index": {
-          "2025-11-02": [
+          "2025-11-07": [
             "creation"
           ]
         }
       },
       {
-        "id": "9e104b08-df41-4b6d-a17a-28b7e49aa77e",
-        "title": "Proposer — offres réversibles, sans pression",
-        "type": "Pilier",
-        "piliers": [],
-        "related_antivaleurs": [],
-        "related_principes": [],
-        "sub_type": null,
-        "mode": "Stable",
-        "gp_sub_state": null,
-        "gp_episode": null,
-        "current_content": {
-          "description": ""
-        },
-        "attachments": [],
-        "history": [
-          {
-            "timestamp": "2025-11-02T10:29:06+01:00",
-            "event_type": "creation",
-            "payload": {
-              "title": "Proposer — offres réversibles, sans pression",
-              "type": "Pilier"
-            },
-            "author": null
-          }
-        ],
-        "calendar_index": {
-          "2025-11-02": [
-            "creation"
-          ]
-        }
-      },
-      {
-        "id": "4ccaecc1-d166-4eb4-a58e-0afec0d1004d",
-        "title": "Écouter — aller au fond, questions qui aident",
-        "type": "Pilier",
-        "piliers": [],
-        "related_antivaleurs": [],
-        "related_principes": [],
-        "sub_type": null,
-        "mode": "Stable",
-        "gp_sub_state": null,
-        "gp_episode": null,
-        "current_content": {
-          "description": ""
-        },
-        "attachments": [],
-        "history": [
-          {
-            "timestamp": "2025-11-02T10:29:58+01:00",
-            "event_type": "creation",
-            "payload": {
-              "title": "Écouter — aller au fond, questions qui aident",
-              "type": "Pilier"
-            },
-            "author": null
-          }
-        ],
-        "calendar_index": {
-          "2025-11-02": [
-            "creation"
-          ]
-        }
-      },
-      {
-        "id": "44d3daaa-e2d7-49cd-8c2d-451a7ea5e02e",
-        "title": "Clarifier — rendre simple, cadrer le décor & les attentes",
-        "type": "Pilier",
-        "piliers": [],
-        "related_antivaleurs": [],
-        "related_principes": [],
-        "sub_type": null,
-        "mode": "Stable",
-        "gp_sub_state": null,
-        "gp_episode": null,
-        "current_content": {
-          "description": ""
-        },
-        "attachments": [],
-        "history": [
-          {
-            "timestamp": "2025-11-02T10:30:15+01:00",
-            "event_type": "creation",
-            "payload": {
-              "title": "Clarifier — rendre simple, cadrer le décor & les attentes",
-              "type": "Pilier"
-            },
-            "author": null
-          }
-        ],
-        "calendar_index": {
-          "2025-11-02": [
-            "creation"
-          ]
-        }
-      },
-      {
-        "id": "4811c879-b13c-4893-bf93-dbaca80e5a84",
-        "title": "Rassembler — connecter des personnes, faire collaborer",
-        "type": "Pilier",
-        "piliers": [],
-        "related_antivaleurs": [],
-        "related_principes": [],
-        "sub_type": null,
-        "mode": "Stable",
-        "gp_sub_state": null,
-        "gp_episode": null,
-        "current_content": {
-          "description": ""
-        },
-        "attachments": [],
-        "history": [
-          {
-            "timestamp": "2025-11-02T10:30:30+01:00",
-            "event_type": "creation",
-            "payload": {
-              "title": "Rassembler — connecter des personnes, faire collaborer",
-              "type": "Pilier"
-            },
-            "author": null
-          }
-        ],
-        "calendar_index": {
-          "2025-11-02": [
-            "creation"
-          ]
-        }
-      },
-      {
-        "id": "2588760e-42f1-4476-bfba-6f9719b5a1fb",
-        "title": "Profondeur — échanges vrais, consentis, intenses",
-        "type": "Pilier",
-        "piliers": [],
-        "related_antivaleurs": [],
-        "related_principes": [],
-        "sub_type": null,
-        "mode": "Stable",
-        "gp_sub_state": null,
-        "gp_episode": null,
-        "current_content": {
-          "description": ""
-        },
-        "attachments": [],
-        "history": [
-          {
-            "timestamp": "2025-11-02T10:30:44+01:00",
-            "event_type": "creation",
-            "payload": {
-              "title": "Profondeur — échanges vrais, consentis, intenses",
-              "type": "Pilier"
-            },
-            "author": null
-          }
-        ],
-        "calendar_index": {
-          "2025-11-02": [
-            "creation"
-          ]
-        }
-      },
-      {
-        "id": "1733f6ba-1866-4073-8614-7b48a76c0ed6",
+        "id": "54f94085-08eb-481d-a4b8-c6c49300055d",
         "title": "Auto-désinhibition par substances (alcool, tabac, drogue : non)",
         "type": "Anti-valeur",
         "piliers": [],
@@ -485,7 +329,7 @@
         "attachments": [],
         "history": [
           {
-            "timestamp": "2025-11-02T10:32:39+01:00",
+            "timestamp": "2025-11-07T11:28:57+01:00",
             "event_type": "creation",
             "payload": {
               "title": "Auto-désinhibition par substances (alcool, tabac, drogue : non)",
@@ -495,109 +339,13 @@
           }
         ],
         "calendar_index": {
-          "2025-11-02": [
+          "2025-11-07": [
             "creation"
           ]
         }
       },
       {
-        "id": "db34e27f-7ee5-4624-a481-f8c1649d280e",
-        "title": "Binarisation / stéréotypes (catégoriser au lieu de demander)",
-        "type": "Anti-valeur",
-        "piliers": [],
-        "related_antivaleurs": [],
-        "related_principes": [],
-        "sub_type": null,
-        "mode": "Stable",
-        "gp_sub_state": null,
-        "gp_episode": null,
-        "current_content": {
-          "description": ""
-        },
-        "attachments": [],
-        "history": [
-          {
-            "timestamp": "2025-11-02T10:33:01+01:00",
-            "event_type": "creation",
-            "payload": {
-              "title": "Binarisation / stéréotypes (catégoriser au lieu de demander)",
-              "type": "Anti-valeur"
-            },
-            "author": null
-          }
-        ],
-        "calendar_index": {
-          "2025-11-02": [
-            "creation"
-          ]
-        }
-      },
-      {
-        "id": "34839847-39d2-44bb-bac8-df0718e119c9",
-        "title": "Pression / forçage (anti-consentement)",
-        "type": "Anti-valeur",
-        "piliers": [],
-        "related_antivaleurs": [],
-        "related_principes": [],
-        "sub_type": null,
-        "mode": "Stable",
-        "gp_sub_state": null,
-        "gp_episode": null,
-        "current_content": {
-          "description": ""
-        },
-        "attachments": [],
-        "history": [
-          {
-            "timestamp": "2025-11-02T10:33:17+01:00",
-            "event_type": "creation",
-            "payload": {
-              "title": "Pression / forçage (anti-consentement)",
-              "type": "Anti-valeur"
-            },
-            "author": null
-          }
-        ],
-        "calendar_index": {
-          "2025-11-02": [
-            "creation"
-          ]
-        }
-      },
-      {
-        "id": "199f525d-b998-49f0-8461-d463c935b60a",
-        "title": "Flou volontaire / omission sociale (laisser passer un bonjour aligné)",
-        "type": "Anti-valeur",
-        "piliers": [],
-        "related_antivaleurs": [],
-        "related_principes": [],
-        "sub_type": null,
-        "mode": "Stable",
-        "gp_sub_state": null,
-        "gp_episode": null,
-        "current_content": {
-          "description": ""
-        },
-        "attachments": [],
-        "history": [
-          {
-            "timestamp": "2025-11-02T10:33:27+01:00",
-            "event_type": "creation",
-            "payload": {
-              "title": "Flou volontaire / omission sociale (laisser passer un bonjour aligné)",
-              "type": "Anti-valeur"
-            },
-            "author": null
-          }
-        ],
-        "calendar_index": {
-          "2025-11-02": [
-            "creation"
-          ]
-        }
-      },
-      {
-        "id": "240c9a19-a676-4e5e-bb42-2c0682a3d000",
+        "id": "09a42542-35d7-436d-9dd6-29115165c7c4",
         "title": "Théâtre de performance (parler sans preuves)",
         "type": "Anti-valeur",
         "piliers": [],
@@ -613,7 +361,7 @@
         "attachments": [],
         "history": [
           {
-            "timestamp": "2025-11-02T10:33:47+01:00",
+            "timestamp": "2025-11-07T12:52:27+01:00",
             "event_type": "creation",
             "payload": {
               "title": "Théâtre de performance (parler sans preuves)",
@@ -623,13 +371,205 @@
           }
         ],
         "calendar_index": {
-          "2025-11-02": [
+          "2025-11-07": [
             "creation"
           ]
         }
       },
       {
-        "id": "75fb0c90-d9a6-4921-a9c2-ff734826e0ec",
+        "id": "eefe6ce4-0d84-43a7-90bc-a637662225c5",
+        "title": "Flou volontaire / omission sociale (laisser passer un bonjour aligné)",
+        "type": "Anti-valeur",
+        "piliers": [],
+        "related_antivaleurs": [],
+        "related_principes": [],
+        "sub_type": null,
+        "mode": "Stable",
+        "gp_sub_state": null,
+        "gp_episode": null,
+        "current_content": {
+          "description": ""
+        },
+        "attachments": [],
+        "history": [
+          {
+            "timestamp": "2025-11-07T15:38:33+01:00",
+            "event_type": "creation",
+            "payload": {
+              "title": "Flou volontaire / omission sociale (laisser passer un bonjour aligné)",
+              "type": "Anti-valeur"
+            },
+            "author": null
+          }
+        ],
+        "calendar_index": {
+          "2025-11-07": [
+            "creation"
+          ]
+        }
+      },
+      {
+        "id": "19f98f3d-7c9e-4730-b4e5-d72652fcafbb",
+        "title": "Profondeur — échanges vrais, consentis, intenses",
+        "type": "Pilier",
+        "piliers": [],
+        "related_antivaleurs": [],
+        "related_principes": [],
+        "sub_type": null,
+        "mode": "Stable",
+        "gp_sub_state": null,
+        "gp_episode": null,
+        "current_content": {
+          "description": ""
+        },
+        "attachments": [],
+        "history": [
+          {
+            "timestamp": "2025-11-07T15:39:54+01:00",
+            "event_type": "creation",
+            "payload": {
+              "title": "Profondeur — échanges vrais, consentis, intenses",
+              "type": "Pilier"
+            },
+            "author": null
+          }
+        ],
+        "calendar_index": {
+          "2025-11-07": [
+            "creation"
+          ]
+        }
+      },
+      {
+        "id": "889952da-a4df-4e98-b54e-76e6a8d88746",
+        "title": "Pression / forçage (anti-consentement)",
+        "type": "Anti-valeur",
+        "piliers": [],
+        "related_antivaleurs": [],
+        "related_principes": [],
+        "sub_type": null,
+        "mode": "Stable",
+        "gp_sub_state": null,
+        "gp_episode": null,
+        "current_content": {
+          "description": ""
+        },
+        "attachments": [],
+        "history": [
+          {
+            "timestamp": "2025-11-07T15:40:29+01:00",
+            "event_type": "creation",
+            "payload": {
+              "title": "Pression / forçage (anti-consentement)",
+              "type": "Anti-valeur"
+            },
+            "author": null
+          }
+        ],
+        "calendar_index": {
+          "2025-11-07": [
+            "creation"
+          ]
+        }
+      },
+      {
+        "id": "794e37d1-3503-4672-a91b-099097e79a75",
+        "title": "Clarifier — rendre simple, cadrer le décor & les attentes",
+        "type": "Pilier",
+        "piliers": [],
+        "related_antivaleurs": [],
+        "related_principes": [],
+        "sub_type": null,
+        "mode": "Stable",
+        "gp_sub_state": null,
+        "gp_episode": null,
+        "current_content": {
+          "description": ""
+        },
+        "attachments": [],
+        "history": [
+          {
+            "timestamp": "2025-11-07T15:41:40+01:00",
+            "event_type": "creation",
+            "payload": {
+              "title": "Clarifier — rendre simple, cadrer le décor & les attentes",
+              "type": "Pilier"
+            },
+            "author": null
+          }
+        ],
+        "calendar_index": {
+          "2025-11-07": [
+            "creation"
+          ]
+        }
+      },
+      {
+        "id": "5bd5bfa5-2140-45f7-ba7e-5676d64aed7f",
+        "title": "Rassembler — connecter des personnes, faire collaborer",
+        "type": "Pilier",
+        "piliers": [],
+        "related_antivaleurs": [],
+        "related_principes": [],
+        "sub_type": null,
+        "mode": "Stable",
+        "gp_sub_state": null,
+        "gp_episode": null,
+        "current_content": {
+          "description": ""
+        },
+        "attachments": [],
+        "history": [
+          {
+            "timestamp": "2025-11-07T15:46:42+01:00",
+            "event_type": "creation",
+            "payload": {
+              "title": "Rassembler — connecter des personnes, faire collaborer",
+              "type": "Pilier"
+            },
+            "author": null
+          }
+        ],
+        "calendar_index": {
+          "2025-11-07": [
+            "creation"
+          ]
+        }
+      },
+      {
+        "id": "ca6fe6d1-272b-440e-952c-86e3ad7c3743",
+        "title": "Écouter — aller au fond, questions qui aident",
+        "type": "Pilier",
+        "piliers": [],
+        "related_antivaleurs": [],
+        "related_principes": [],
+        "sub_type": null,
+        "mode": "Stable",
+        "gp_sub_state": null,
+        "gp_episode": null,
+        "current_content": {
+          "description": ""
+        },
+        "attachments": [],
+        "history": [
+          {
+            "timestamp": "2025-11-07T15:47:20+01:00",
+            "event_type": "creation",
+            "payload": {
+              "title": "Écouter — aller au fond, questions qui aident",
+              "type": "Pilier"
+            },
+            "author": null
+          }
+        ],
+        "calendar_index": {
+          "2025-11-07": [
+            "creation"
+          ]
+        }
+      },
+      {
+        "id": "fbc5f5ac-cdb4-4fb5-8c39-4a06f894bd80",
         "title": "Auto-négligence (laisser sucre/routine te dégrader plusieurs jours d’affilée)",
         "type": "Anti-valeur",
         "piliers": [],
@@ -645,73 +585,55 @@
         "attachments": [],
         "history": [
           {
-            "timestamp": "2025-11-02T10:34:06+01:00",
+            "timestamp": "2025-11-07T15:47:52+01:00",
             "event_type": "creation",
             "payload": {
               "title": "Auto-négligence (laisser sucre/routine te dégrader plusieurs jours d’affilée)",
               "type": "Anti-valeur"
             },
             "author": null
-          },
+          }
+        ],
+        "calendar_index": {
+          "2025-11-07": [
+            "creation"
+          ]
+        }
+      },
+      {
+        "id": "7244af28-ccec-4e9d-9db9-89e022fe3af6",
+        "title": "Proposer — offres réversibles, sans pression",
+        "type": "Pilier",
+        "piliers": [],
+        "related_antivaleurs": [],
+        "related_principes": [],
+        "sub_type": null,
+        "mode": "Stable",
+        "gp_sub_state": null,
+        "gp_episode": null,
+        "current_content": {
+          "description": ""
+        },
+        "attachments": [],
+        "history": [
           {
-            "timestamp": "2025-11-02T13:19:39+01:00",
-            "event_type": "lien_pilier_add",
+            "timestamp": "2025-11-07T15:48:29+01:00",
+            "event_type": "creation",
             "payload": {
-              "pilier_id": "2588760e-42f1-4476-bfba-6f9719b5a1fb"
-            },
-            "author": null
-          },
-          {
-            "timestamp": "2025-11-02T13:19:39+01:00",
-            "event_type": "lien_pilier_del",
-            "payload": {
-              "pilier_id": "2588760e-42f1-4476-bfba-6f9719b5a1fb"
-            },
-            "author": null
-          },
-          {
-            "timestamp": "2025-11-02T13:19:39+01:00",
-            "event_type": "lien_pilier_add",
-            "payload": {
-              "pilier_id": "44d3daaa-e2d7-49cd-8c2d-451a7ea5e02e"
-            },
-            "author": null
-          },
-          {
-            "timestamp": "2025-11-02T13:19:42+01:00",
-            "event_type": "lien_pilier_del",
-            "payload": {
-              "pilier_id": "44d3daaa-e2d7-49cd-8c2d-451a7ea5e02e"
-            },
-            "author": null
-          },
-          {
-            "timestamp": "2025-11-02T13:19:42+01:00",
-            "event_type": "lien_pilier_add",
-            "payload": {
-              "pilier_id": "4ccaecc1-d166-4eb4-a58e-0afec0d1004d"
-            },
-            "author": null
-          },
-          {
-            "timestamp": "2025-11-02T13:19:44+01:00",
-            "event_type": "lien_pilier_del",
-            "payload": {
-              "pilier_id": "4ccaecc1-d166-4eb4-a58e-0afec0d1004d"
+              "title": "Proposer — offres réversibles, sans pression",
+              "type": "Pilier"
             },
             "author": null
           }
         ],
         "calendar_index": {
-          "2025-11-02": [
-            "creation",
-            "lien_pilier_add",
-            "lien_pilier_del"
+          "2025-11-07": [
+            "creation"
           ]
         }
       },
       {
-        "id": "a9495ad0-512c-4e3f-9ac0-1dd4d87cfbfe",
+        "id": "5485f595-ba5d-47f3-a73e-9d4e4514a7ec",
         "title": "Quête de sens",
         "type": "Pilier",
         "piliers": [],
@@ -727,7 +649,7 @@
         "attachments": [],
         "history": [
           {
-            "timestamp": "2025-11-03T10:28:39+01:00",
+            "timestamp": "2025-11-07T15:49:50+01:00",
             "event_type": "creation",
             "payload": {
               "title": "Quête de sens",
@@ -737,17 +659,49 @@
           }
         ],
         "calendar_index": {
-          "2025-11-03": [
+          "2025-11-07": [
             "creation"
           ]
         }
       },
       {
-        "id": "1994d8d9-d3f6-4eb5-a359-02ed825f0310",
+        "id": "18fae170-a9bf-41eb-8bd9-fbb69614a05f",
+        "title": "Binarisation / stéréotypes (catégoriser au lieu de demander)",
+        "type": "Anti-valeur",
+        "piliers": [],
+        "related_antivaleurs": [],
+        "related_principes": [],
+        "sub_type": null,
+        "mode": "Stable",
+        "gp_sub_state": null,
+        "gp_episode": null,
+        "current_content": {
+          "description": ""
+        },
+        "attachments": [],
+        "history": [
+          {
+            "timestamp": "2025-11-07T15:50:25+01:00",
+            "event_type": "creation",
+            "payload": {
+              "title": "Binarisation / stéréotypes (catégoriser au lieu de demander)",
+              "type": "Anti-valeur"
+            },
+            "author": null
+          }
+        ],
+        "calendar_index": {
+          "2025-11-07": [
+            "creation"
+          ]
+        }
+      },
+      {
+        "id": "9e7331b2-b8bf-4755-8307-001e8258a1cf",
         "title": "Cohérence",
         "type": "Principe",
         "piliers": [
-          "a9495ad0-512c-4e3f-9ac0-1dd4d87cfbfe"
+          "5485f595-ba5d-47f3-a73e-9d4e4514a7ec"
         ],
         "related_antivaleurs": [],
         "related_principes": [],
@@ -761,7 +715,7 @@
         "attachments": [],
         "history": [
           {
-            "timestamp": "2025-11-03T10:28:59+01:00",
+            "timestamp": "2025-11-07T15:51:57+01:00",
             "event_type": "creation",
             "payload": {
               "title": "Cohérence",
@@ -770,16 +724,16 @@
             "author": null
           },
           {
-            "timestamp": "2025-11-03T10:28:59+01:00",
+            "timestamp": "2025-11-07T15:51:57+01:00",
             "event_type": "lien_pilier_add",
             "payload": {
-              "pilier_id": "a9495ad0-512c-4e3f-9ac0-1dd4d87cfbfe"
+              "pilier_id": "5485f595-ba5d-47f3-a73e-9d4e4514a7ec"
             },
             "author": null
           }
         ],
         "calendar_index": {
-          "2025-11-03": [
+          "2025-11-07": [
             "creation",
             "lien_pilier_add"
           ]
@@ -798,17 +752,18 @@
     "hidden_card_types": [],
     "focus_state": {
       "headlines": [
-        "b9372d9d-9ae4-4770-b1fc-69b4adbde5e3"
+        "4944b8cd-cf21-48f4-8a3a-820d7edbb203"
       ],
       "piliers": [
-        "9e104b08-df41-4b6d-a17a-28b7e49aa77e"
+        "794e37d1-3503-4672-a91b-099097e79a75",
+        "7244af28-ccec-4e9d-9db9-89e022fe3af6"
       ],
       "antivaleurs": [
-        "199f525d-b998-49f0-8461-d463c935b60a",
-        "34839847-39d2-44bb-bac8-df0718e119c9",
-        "240c9a19-a676-4e5e-bb42-2c0682a3d000"
+        "54f94085-08eb-481d-a4b8-c6c49300055d",
+        "eefe6ce4-0d84-43a7-90bc-a637662225c5",
+        "889952da-a4df-4e98-b54e-76e6a8d88746"
       ],
-      "started_at": "2025-11-03"
+      "started_at": "2025-11-07"
     }
   },
   "guess_points": [],

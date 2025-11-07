@@ -60,6 +60,18 @@
       "audio_path": "people/1816650a-6f3c-4d8d-bb8b-06fd9c1c9011/contacts/b0ca769c-4b84-44f8-9926-aa8dabe7abd8/contact_audio_6e7gg239.wav",
       "transcript_path": "people/1816650a-6f3c-4d8d-bb8b-06fd9c1c9011/contacts/b0ca769c-4b84-44f8-9926-aa8dabe7abd8/transcript.txt",
       "journal_path": "people/1816650a-6f3c-4d8d-bb8b-06fd9c1c9011/contacts/b0ca769c-4b84-44f8-9926-aa8dabe7abd8/journal.txt"
+    },
+    {
+      "contact_id": "52feea96-9d85-4bc1-9479-99d0c09ffce4",
+      "date": "2025-11-06",
+      "start": null,
+      "end": null,
+      "minutes": 0,
+      "channel": "text_async",
+      "journal_path": "people/1816650a-6f3c-4d8d-bb8b-06fd9c1c9011/contacts/52feea96-9d85-4bc1-9479-99d0c09ffce4/journal.txt",
+      "simple_contact": true,
+      "simple_contact_type": "message",
+      "simple_contact_label": "Message (texte)"
     }
   ],
   "ambivalent": false,
