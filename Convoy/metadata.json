@@ -2,7 +2,7 @@
   "workspace_version": 1,
   "title": "Convoi relationnel de Kévin",
   "owner": "Kevin",
-  "last_updated": "2025-11-07T14:54:33Z",
+  "last_updated": "2025-11-08T21:02:10Z",
   "people": [
     {
       "person_id": "d0ded39e-85d6-4777-9b44-d18c5f31e9db",
@@ -52,6 +52,10 @@
       "person_path": "people/1816650a-6f3c-4d8d-bb8b-06fd9c1c9011/person.json",
       "contacts": [
         {
+          "contact_id": "52feea96-9d85-4bc1-9479-99d0c09ffce4",
+          "journal_path": "people/1816650a-6f3c-4d8d-bb8b-06fd9c1c9011/contacts/52feea96-9d85-4bc1-9479-99d0c09ffce4/journal.txt"
+        },
+        {
           "contact_id": "3265ed82-7a37-43f6-8384-c840fb6a76e6",
           "journal_path": "people/1816650a-6f3c-4d8d-bb8b-06fd9c1c9011/contacts/3265ed82-7a37-43f6-8384-c840fb6a76e6/journal.txt"
         },
@@ -70,10 +74,6 @@
           "journal_path": "people/1816650a-6f3c-4d8d-bb8b-06fd9c1c9011/contacts/b0ca769c-4b84-44f8-9926-aa8dabe7abd8/journal.txt",
           "transcript_path": "people/1816650a-6f3c-4d8d-bb8b-06fd9c1c9011/contacts/b0ca769c-4b84-44f8-9926-aa8dabe7abd8/transcript.txt",
           "audio_path": "people/1816650a-6f3c-4d8d-bb8b-06fd9c1c9011/contacts/b0ca769c-4b84-44f8-9926-aa8dabe7abd8/contact_audio_6e7gg239.wav"
-        },
-        {
-          "contact_id": "52feea96-9d85-4bc1-9479-99d0c09ffce4",
-          "journal_path": "people/1816650a-6f3c-4d8d-bb8b-06fd9c1c9011/contacts/52feea96-9d85-4bc1-9479-99d0c09ffce4/journal.txt"
         }
       ]
     },
@@ -190,12 +190,12 @@
       "person_path": "people/8d5e3894-c476-45aa-a153-03f5f7674df1/person.json",
       "contacts": [
         {
-          "contact_id": "a784fadf-cb66-4e16-9cb7-3f94fc401046",
-          "journal_path": "people/8d5e3894-c476-45aa-a153-03f5f7674df1/contacts/a784fadf-cb66-4e16-9cb7-3f94fc401046/journal.txt"
-        },
-        {
           "contact_id": "1190e895-3720-4d29-bf42-968fb9086fff",
           "journal_path": "people/8d5e3894-c476-45aa-a153-03f5f7674df1/contacts/1190e895-3720-4d29-bf42-968fb9086fff/journal.txt"
+        },
+        {
+          "contact_id": "a784fadf-cb66-4e16-9cb7-3f94fc401046",
+          "journal_path": "people/8d5e3894-c476-45aa-a153-03f5f7674df1/contacts/a784fadf-cb66-4e16-9cb7-3f94fc401046/journal.txt"
         }
       ]
     },
@@ -242,6 +242,13 @@
       "name": "Lina",
       "circle": "Médiane",
       "person_path": "people/26586324-78c1-4810-b2c5-4a9b05997b4e/person.json",
+      "contacts": []
+    },
+    {
+      "person_id": "7605ccf0-f2df-4771-9d4b-538f3f79d308",
+      "name": "Oumaima",
+      "circle": "Externe",
+      "person_path": "people/7605ccf0-f2df-4771-9d4b-538f3f79d308/person.json",
       "contacts": []
     }
   ],
