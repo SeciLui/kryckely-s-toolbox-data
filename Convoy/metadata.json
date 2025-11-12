@@ -2,7 +2,7 @@
   "workspace_version": 1,
   "title": "Convoi relationnel de Kévin",
   "owner": "Kevin",
-  "last_updated": "2025-11-08T21:02:10Z",
+  "last_updated": "2025-11-12T09:54:37Z",
   "people": [
     {
       "person_id": "d0ded39e-85d6-4777-9b44-d18c5f31e9db",
@@ -156,6 +156,12 @@
           "journal_path": "people/a7843b49-1d02-4600-b2d7-77ceb04c6e2a/contacts/a873be81-4cca-46a0-a662-57d0caa08348/journal.txt",
           "transcript_path": "people/a7843b49-1d02-4600-b2d7-77ceb04c6e2a/contacts/a873be81-4cca-46a0-a662-57d0caa08348/transcript.txt",
           "audio_path": "people/a7843b49-1d02-4600-b2d7-77ceb04c6e2a/contacts/a873be81-4cca-46a0-a662-57d0caa08348/contact_audio_0dajfyfy.wav"
+        },
+        {
+          "contact_id": "07655e85-7f7c-4a76-9b9c-d99cb34c18cd",
+          "journal_path": "people/a7843b49-1d02-4600-b2d7-77ceb04c6e2a/contacts/07655e85-7f7c-4a76-9b9c-d99cb34c18cd/journal.txt",
+          "transcript_path": "people/a7843b49-1d02-4600-b2d7-77ceb04c6e2a/contacts/07655e85-7f7c-4a76-9b9c-d99cb34c18cd/transcript.txt",
+          "audio_path": "people/a7843b49-1d02-4600-b2d7-77ceb04c6e2a/contacts/07655e85-7f7c-4a76-9b9c-d99cb34c18cd/contact_audio.wav"
         }
       ]
     },
@@ -249,7 +255,12 @@
       "name": "Oumaima",
       "circle": "Externe",
       "person_path": "people/7605ccf0-f2df-4771-9d4b-538f3f79d308/person.json",
-      "contacts": []
+      "contacts": [
+        {
+          "contact_id": "d1dc0467-318c-48b8-b4d4-61ca0a028f4e",
+          "journal_path": "people/7605ccf0-f2df-4771-9d4b-538f3f79d308/contacts/d1dc0467-318c-48b8-b4d4-61ca0a028f4e/journal.txt"
+        }
+      ]
     }
   ],
   "events": [
