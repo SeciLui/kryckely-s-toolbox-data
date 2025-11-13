@@ -9,15 +9,7 @@
   "match_besoins": 0.0,
   "needs_nourished": [],
   "need_support": {
-    "Compétence & progression (apprentissage/maîtrise)": {
-      "minutes_per_week": 45.0,
-      "occ_per_week": 0.75
-    },
-    "Co-création & collaboration (agir-avec)": {
-      "minutes_per_week": 41.25,
-      "occ_per_week": 1.0
-    },
-    "Joie & jeu (affects positifs)": {
+    "Expression & compréhension émotionnelle": {
       "minutes_per_week": 2.5,
       "occ_per_week": 0.25
     }
@@ -72,6 +64,39 @@
       "audio_path": "people/1816650a-6f3c-4d8d-bb8b-06fd9c1c9011/contacts/b0ca769c-4b84-44f8-9926-aa8dabe7abd8/contact_audio_6e7gg239.wav",
       "transcript_path": "people/1816650a-6f3c-4d8d-bb8b-06fd9c1c9011/contacts/b0ca769c-4b84-44f8-9926-aa8dabe7abd8/transcript.txt",
       "journal_path": "people/1816650a-6f3c-4d8d-bb8b-06fd9c1c9011/contacts/b0ca769c-4b84-44f8-9926-aa8dabe7abd8/journal.txt"
+    },
+    {
+      "contact_id": "57d83902-1545-4c6f-b7bf-7be7211c5f51",
+      "date": "2025-11-09",
+      "start": null,
+      "end": null,
+      "channel": "in_person",
+      "summary": "Dérivé de l’événement 2025-11-12-evenement-5013. Allan a partagé des choses personnelles; écoute surtout du narrateur qui était fatigué.",
+      "source": "event:2025-11-12-evenement-5013",
+      "event_id": "2025-11-12-evenement-5013",
+      "needs_contrib": {
+        "Expression & compréhension émotionnelle": {
+          "minutes": 10.0,
+          "occ": 1.0
+        }
+      },
+      "minutes": 10,
+      "event_details": {
+        "title": "Soirée raclette Linestra (chez Pablo)",
+        "context": "Dîner d'équipe; brainstorming 'big picture' envisagé puis non réalisé; échanges informels",
+        "location": "Appartement de Pablo",
+        "channel": "in_person",
+        "per_person": {
+          "needs": {
+            "Expression & compréhension émotionnelle": {
+              "minutes": 10.0,
+              "occ": 1.0
+            }
+          },
+          "notes": "Allan a partagé des choses personnelles; écoute surtout du narrateur qui était fatigué."
+        }
+      },
+      "journal_path": "people/1816650a-6f3c-4d8d-bb8b-06fd9c1c9011/contacts/57d83902-1545-4c6f-b7bf-7be7211c5f51/journal.txt"
     }
   ],
   "ambivalent": false,

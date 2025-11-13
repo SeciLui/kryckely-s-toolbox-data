@@ -13,5 +13,6 @@
   "ambivalent": false,
   "status": "",
   "notes": "",
-  "contact_reminder_days": 30
+  "contact_reminder_days": 30,
+  "next_message_note": ""
 }

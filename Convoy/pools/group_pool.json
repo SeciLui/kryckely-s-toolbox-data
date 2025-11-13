@@ -141,20 +141,41 @@
         }
       },
       "last_imported_at": "2025-11-04T16:43:54Z"
+    },
+    "2025-11-12-evenement-5013": {
+      "needs": {
+        "Appartenance & communauté": {
+          "minutes": 60.0,
+          "occ": 1.0
+        },
+        "Joie & jeu (affects positifs)": {
+          "minutes": 30.0,
+          "occ": 1.0
+        },
+        "Coprésence paisible & routine": {
+          "minutes": 90.0,
+          "occ": 1.0
+        },
+        "Soutien pratique & fiabilité (instrumental/informationnel)": {
+          "minutes": 20.0,
+          "occ": 1.0
+        }
+      },
+      "last_imported_at": "2025-11-12T10:53:07Z"
     }
   },
   "totals": {
     "Appartenance & communauté": {
-      "minutes": 620.0,
-      "occ": 11.0
+      "minutes": 680.0,
+      "occ": 12.0
     },
     "Joie & jeu (affects positifs)": {
-      "minutes": 525.0,
-      "occ": 13.0
+      "minutes": 555.0,
+      "occ": 14.0
     },
     "Coprésence paisible & routine": {
-      "minutes": 580.0,
-      "occ": 6.0
+      "minutes": 670.0,
+      "occ": 7.0
     },
     "Co-création & collaboration (agir-avec)": {
       "minutes": 75.0,
@@ -177,8 +198,8 @@
       "occ": 1.0
     },
     "Soutien pratique & fiabilité (instrumental/informationnel)": {
-      "minutes": 60.0,
-      "occ": 2.0
+      "minutes": 80.0,
+      "occ": 3.0
     },
     "Calme & sécurité (co-régulation)": {
       "minutes": 85.0,

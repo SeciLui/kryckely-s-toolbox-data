@@ -2,7 +2,7 @@
   "workspace_version": 1,
   "title": "Convoi relationnel de Kévin",
   "owner": "Kevin",
-  "last_updated": "2025-11-12T09:54:37Z",
+  "last_updated": "2025-11-13T08:35:20Z",
   "people": [
     {
       "person_id": "d0ded39e-85d6-4777-9b44-d18c5f31e9db",
@@ -74,6 +74,10 @@
           "journal_path": "people/1816650a-6f3c-4d8d-bb8b-06fd9c1c9011/contacts/b0ca769c-4b84-44f8-9926-aa8dabe7abd8/journal.txt",
           "transcript_path": "people/1816650a-6f3c-4d8d-bb8b-06fd9c1c9011/contacts/b0ca769c-4b84-44f8-9926-aa8dabe7abd8/transcript.txt",
           "audio_path": "people/1816650a-6f3c-4d8d-bb8b-06fd9c1c9011/contacts/b0ca769c-4b84-44f8-9926-aa8dabe7abd8/contact_audio_6e7gg239.wav"
+        },
+        {
+          "contact_id": "57d83902-1545-4c6f-b7bf-7be7211c5f51",
+          "journal_path": "people/1816650a-6f3c-4d8d-bb8b-06fd9c1c9011/contacts/57d83902-1545-4c6f-b7bf-7be7211c5f51/journal.txt"
         }
       ]
     },
@@ -152,16 +156,16 @@
       "person_path": "people/a7843b49-1d02-4600-b2d7-77ceb04c6e2a/person.json",
       "contacts": [
         {
-          "contact_id": "a873be81-4cca-46a0-a662-57d0caa08348",
-          "journal_path": "people/a7843b49-1d02-4600-b2d7-77ceb04c6e2a/contacts/a873be81-4cca-46a0-a662-57d0caa08348/journal.txt",
-          "transcript_path": "people/a7843b49-1d02-4600-b2d7-77ceb04c6e2a/contacts/a873be81-4cca-46a0-a662-57d0caa08348/transcript.txt",
-          "audio_path": "people/a7843b49-1d02-4600-b2d7-77ceb04c6e2a/contacts/a873be81-4cca-46a0-a662-57d0caa08348/contact_audio_0dajfyfy.wav"
-        },
-        {
           "contact_id": "07655e85-7f7c-4a76-9b9c-d99cb34c18cd",
           "journal_path": "people/a7843b49-1d02-4600-b2d7-77ceb04c6e2a/contacts/07655e85-7f7c-4a76-9b9c-d99cb34c18cd/journal.txt",
           "transcript_path": "people/a7843b49-1d02-4600-b2d7-77ceb04c6e2a/contacts/07655e85-7f7c-4a76-9b9c-d99cb34c18cd/transcript.txt",
           "audio_path": "people/a7843b49-1d02-4600-b2d7-77ceb04c6e2a/contacts/07655e85-7f7c-4a76-9b9c-d99cb34c18cd/contact_audio.wav"
+        },
+        {
+          "contact_id": "a873be81-4cca-46a0-a662-57d0caa08348",
+          "journal_path": "people/a7843b49-1d02-4600-b2d7-77ceb04c6e2a/contacts/a873be81-4cca-46a0-a662-57d0caa08348/journal.txt",
+          "transcript_path": "people/a7843b49-1d02-4600-b2d7-77ceb04c6e2a/contacts/a873be81-4cca-46a0-a662-57d0caa08348/transcript.txt",
+          "audio_path": "people/a7843b49-1d02-4600-b2d7-77ceb04c6e2a/contacts/a873be81-4cca-46a0-a662-57d0caa08348/contact_audio_0dajfyfy.wav"
         }
       ]
     },
@@ -293,8 +297,16 @@
       "event_id": "2025-11-01-evenement-da69",
       "title": "Exposition & discussions avec William et Aïda",
       "event_path": "events/2025-11-01-evenement-da69.json"
+    },
+    {
+      "event_id": "2025-11-12-evenement-5013",
+      "title": "Soirée raclette Lainestra (chez Pablo)",
+      "event_path": "events/2025-11-12-evenement-5013.json"
     }
   ],
+  "campement": {
+    "show_ghost_contacts": false
+  },
   "identity": {
     "version": "cards-v1",
     "cards": [
