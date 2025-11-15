@@ -2,7 +2,7 @@
   "workspace_version": 1,
   "title": "Convoi relationnel de Kévin",
   "owner": "Kevin",
-  "last_updated": "2025-11-13T08:54:59Z",
+  "last_updated": "2025-11-15T10:28:36Z",
   "people": [
     {
       "person_id": "d0ded39e-85d6-4777-9b44-d18c5f31e9db",
@@ -14,6 +14,10 @@
           "contact_id": "0a3b2918-7f3c-4682-9782-60518ec0e5e7",
           "journal_path": "people/d0ded39e-85d6-4777-9b44-d18c5f31e9db/contacts/0a3b2918-7f3c-4682-9782-60518ec0e5e7/journal.txt",
           "transcript_path": "people/d0ded39e-85d6-4777-9b44-d18c5f31e9db/contacts/0a3b2918-7f3c-4682-9782-60518ec0e5e7/journal.txt"
+        },
+        {
+          "contact_id": "9ef6895d-0900-4c02-96b6-687f9429e441",
+          "journal_path": "people/d0ded39e-85d6-4777-9b44-d18c5f31e9db/contacts/9ef6895d-0900-4c02-96b6-687f9429e441/journal.txt"
         }
       ]
     },
@@ -42,6 +46,12 @@
           "journal_path": "people/63d82906-49cc-44d8-83b5-13036f55d017/contacts/f80c3be6-719d-47e4-9253-9cc0a82f9060/journal.txt",
           "transcript_path": "people/63d82906-49cc-44d8-83b5-13036f55d017/contacts/f80c3be6-719d-47e4-9253-9cc0a82f9060/transcript.txt",
           "audio_path": "people/63d82906-49cc-44d8-83b5-13036f55d017/contacts/f80c3be6-719d-47e4-9253-9cc0a82f9060/contact_audio_ju8vkosw.wav"
+        },
+        {
+          "contact_id": "92aebbe7-617b-4b70-8e2e-64bf1b5f85f8",
+          "journal_path": "people/63d82906-49cc-44d8-83b5-13036f55d017/contacts/92aebbe7-617b-4b70-8e2e-64bf1b5f85f8/journal.txt",
+          "transcript_path": "people/63d82906-49cc-44d8-83b5-13036f55d017/contacts/92aebbe7-617b-4b70-8e2e-64bf1b5f85f8/transcript.txt",
+          "audio_path": "people/63d82906-49cc-44d8-83b5-13036f55d017/contacts/92aebbe7-617b-4b70-8e2e-64bf1b5f85f8/contact_audio.wav"
         }
       ]
     },
@@ -87,6 +97,12 @@
       "circle": "Noyau",
       "person_path": "people/71abe08f-43dc-4200-b054-e31aca780e45/person.json",
       "contacts": [
+        {
+          "contact_id": "c2d60835-3b3d-4a1f-a470-b9bae5f6afdc",
+          "journal_path": "people/71abe08f-43dc-4200-b054-e31aca780e45/contacts/c2d60835-3b3d-4a1f-a470-b9bae5f6afdc/journal.txt",
+          "transcript_path": "people/71abe08f-43dc-4200-b054-e31aca780e45/contacts/c2d60835-3b3d-4a1f-a470-b9bae5f6afdc/transcript.txt",
+          "audio_path": "people/71abe08f-43dc-4200-b054-e31aca780e45/contacts/c2d60835-3b3d-4a1f-a470-b9bae5f6afdc/contact_audio.wav"
+        },
         {
           "contact_id": "6be05147-d3e3-4b48-944c-12a16bc85830",
           "journal_path": "people/71abe08f-43dc-4200-b054-e31aca780e45/contacts/6be05147-d3e3-4b48-944c-12a16bc85830/journal.txt"
@@ -252,7 +268,12 @@
       "name": "Lina",
       "circle": "Médiane",
       "person_path": "people/26586324-78c1-4810-b2c5-4a9b05997b4e/person.json",
-      "contacts": []
+      "contacts": [
+        {
+          "contact_id": "57a51707-c8b8-4adf-ad7b-5f9990fe4e29",
+          "journal_path": "people/26586324-78c1-4810-b2c5-4a9b05997b4e/contacts/57a51707-c8b8-4adf-ad7b-5f9990fe4e29/journal.txt"
+        }
+      ]
     },
     {
       "person_id": "7605ccf0-f2df-4771-9d4b-538f3f79d308",

@@ -9,7 +9,20 @@
   "match_besoins": 0.0,
   "needs_nourished": [],
   "need_support": {},
-  "contacts": [],
+  "contacts": [
+    {
+      "contact_id": "57a51707-c8b8-4adf-ad7b-5f9990fe4e29",
+      "date": "2025-11-15",
+      "start": null,
+      "end": null,
+      "minutes": 0,
+      "channel": "text_async",
+      "journal_path": "people/26586324-78c1-4810-b2c5-4a9b05997b4e/contacts/57a51707-c8b8-4adf-ad7b-5f9990fe4e29/journal.txt",
+      "simple_contact": true,
+      "simple_contact_type": "message",
+      "simple_contact_label": "Message (texte)"
+    }
+  ],
   "ambivalent": false,
   "status": "",
   "notes": "",

@@ -112,6 +112,16 @@
       "audio_path": "people/63d82906-49cc-44d8-83b5-13036f55d017/contacts/f80c3be6-719d-47e4-9253-9cc0a82f9060/contact_audio_ju8vkosw.wav",
       "transcript_path": "people/63d82906-49cc-44d8-83b5-13036f55d017/contacts/f80c3be6-719d-47e4-9253-9cc0a82f9060/transcript.txt",
       "journal_path": "people/63d82906-49cc-44d8-83b5-13036f55d017/contacts/f80c3be6-719d-47e4-9253-9cc0a82f9060/journal.txt"
+    },
+    {
+      "contact_id": "92aebbe7-617b-4b70-8e2e-64bf1b5f85f8",
+      "date": "2025-11-13",
+      "start": "18:45",
+      "end": "22:00",
+      "minutes": 195,
+      "audio_path": "people/63d82906-49cc-44d8-83b5-13036f55d017/contacts/92aebbe7-617b-4b70-8e2e-64bf1b5f85f8/contact_audio.wav",
+      "transcript_path": "people/63d82906-49cc-44d8-83b5-13036f55d017/contacts/92aebbe7-617b-4b70-8e2e-64bf1b5f85f8/transcript.txt",
+      "journal_path": "people/63d82906-49cc-44d8-83b5-13036f55d017/contacts/92aebbe7-617b-4b70-8e2e-64bf1b5f85f8/journal.txt"
     }
   ],
   "ambivalent": false,

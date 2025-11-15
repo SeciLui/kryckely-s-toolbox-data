@@ -63,10 +63,23 @@
       ],
       "transcript_path": "people/d0ded39e-85d6-4777-9b44-d18c5f31e9db/contacts/0a3b2918-7f3c-4682-9782-60518ec0e5e7/journal.txt",
       "journal_path": "people/d0ded39e-85d6-4777-9b44-d18c5f31e9db/contacts/0a3b2918-7f3c-4682-9782-60518ec0e5e7/journal.txt"
+    },
+    {
+      "contact_id": "9ef6895d-0900-4c02-96b6-687f9429e441",
+      "date": "2025-11-15",
+      "start": null,
+      "end": null,
+      "minutes": 0,
+      "channel": "text_async",
+      "journal_path": "people/d0ded39e-85d6-4777-9b44-d18c5f31e9db/contacts/9ef6895d-0900-4c02-96b6-687f9429e441/journal.txt",
+      "simple_contact": true,
+      "simple_contact_type": "message",
+      "simple_contact_label": "Message (texte)"
     }
   ],
   "ambivalent": false,
   "status": "Fenêtre 28 j observée: 2025-09-09 → 2025-10-07 (aucune interaction loggée). Ambivalence: non (0/1 contacts récents négatifs; règle = ≥2/5). ROI relationnel: élevé et stable (valence 0.95, coût 0.2 → indice ≈ 4.8). Pattern attendu: mensuel; prochain call à programmer (retard léger vs 2025-10-02).",
   "notes": "[Analyse 2025-10-06T14:30:13Z]\nMarc: pattern mensuel initié pvr toi; réponses rapides et engagements honorés. Call audio du 2025-09-02: validation explicite de ton HMT, compliments répétés, absence de jugement, partage de centres d’intérêt (golf, impro). Ressenti: relaxé, serein. Relation longue distance (présentiel ~1/an).\nPlan proposé:\n- Rituel call audio 45–60 min toutes les 4–6 semaines: 1 check-in émotionnel + 1 sujet profond + 1 sujet léger (golf/impro).\n- Message vocal court (≤3 min) entre deux calls pour donner des nouvelles et partager 1 encouragement réciproque.\n- Anticiper sa venue annuelle: proposer dès que la date se précise un créneau présentiel (2–3 h) pour renforcer le lien.\nQuestions ouvertes:\n- Souhaites-tu que j’extrapole la fenêtre 28 j à partir du pattern mensuel (p. ex. répartir 60 min/mois ≈ 15 min/semaine) ou rester strictement sur les logs datés ?\n- Peux-tu confirmer les pondérations de canal à utiliser (par défaut proposé: présentiel 1.2, visio 1.1, audio 1.0, texte 0.5) ?\n- Que signifie exactement « HMT » dans tes notes afin de taguer/évaluer correctement (objectif, forme, fréquence) ?\n- Veux-tu ajouter d’anciens logs (3 derniers mois) pour calculer un need_support plus représentatif et diagnostiquer l’ambivalence sur 5 contacts ?\n\n[Analyse 2025-10-07T07:54:16Z]\n[Analyse 2025-10-07]\nCartographie besoins (canonique) déduite du journal du 2025-09-02: Expression & compréhension émotionnelle (écoute, zéro jugement), Reconnaissance & validation (compliments, validation explicite), Calme & sécurité (ressenti relaxé/serein en fin d'appel), Appartenance & communauté (ancrage dans le groupe, venue annuelle).\nMesure 28 j stricte: aucune occurrence → need_support = 0 pour tous les besoins malgré une identité relationnelle forte. Pondération canal proposée (réf.): présentiel 1.2, visio 1.1, audio 1.0, texte 0.5 — non appliquée ici car 0 interaction dans la fenêtre.\nDiagnostic: relation à haut rendement affectif/fiabilité, faible coût énergétique; risque principal = sous-exposition (fréquence). Recommandation: rétablir le rythme mensuel et ajouter un micro-rituel asynchrone.\nPlan proposé:\n- Call audio 45–60 min toutes les 4–6 semaines (1 check-in émotionnel, 1 sujet profond, 1 sujet léger golf/impro). Action: proposer 3 créneaux cette semaine.\n- Message vocal 60–120 s toutes les 2 semaines entre les calls: 1 nouvelle + 1 encouragement réciproque.\n- Lors de sa venue annuelle: réserver 2–3 h présentiel (marche + café) pour nourrir Calme & sécurité et Appartenance.\nQuestions ouvertes:\n- Souhaites-tu extrapoler le pattern mensuel (p. ex. 60 min/mois ≈ 15 min/semaine) pour le need_support ou rester strictement sur les logs datés ?\n- Valides-tu ces pondérations de canal (présentiel 1.2, visio 1.1, audio 1.0, texte 0.5) ?\n- Que signifie précisément « HMT » dans tes notes pour mieux taguer/évaluer ?\n- Veux-tu importer des logs des 3 derniers mois pour calculer l’ambivalence sur 5 contacts et un need_support plus représentatif ?",
-  "contact_reminder_days": 30
+  "contact_reminder_days": 30,
+  "next_message_note": "Il parait que tu fait des compétitions de golfs maintenant ?\nIl faut que tu me raconte !\nsemaine pro pour un petit call ?"
 }
