@@ -27,18 +27,13 @@
   ],
   "hidden_types": [],
   "focus_state": {
-    "headlines": [
-      "4944b8cd-cf21-48f4-8a3a-820d7edbb203"
-    ],
+    "headlines": [],
     "piliers": [
-      "794e37d1-3503-4672-a91b-099097e79a75",
-      "7244af28-ccec-4e9d-9db9-89e022fe3af6"
+      "5485f595-ba5d-47f3-a73e-9d4e4514a7ec"
     ],
     "antivaleurs": [
-      "54f94085-08eb-481d-a4b8-c6c49300055d",
-      "eefe6ce4-0d84-43a7-90bc-a637662225c5",
-      "889952da-a4df-4e98-b54e-76e6a8d88746"
+      "fbc5f5ac-cdb4-4fb5-8c39-4a06f894bd80"
     ],
-    "started_at": "2025-11-07"
+    "started_at": "2025-11-15"
   }
 }
