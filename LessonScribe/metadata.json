@@ -1,7 +1,7 @@
 {
   "app": "Lesson Scribe",
   "version": 1,
-  "last_updated": "2025-11-15T10:33:15.997081+00:00",
+  "last_updated": "2025-11-20T13:12:49.187538+00:00",
   "lessons": [
     {
       "lesson_id": "d45aef6b-f2cb-4902-a70e-7839151387d3",
@@ -30,6 +30,14 @@
     {
       "lesson_id": "9a4287c7-bd83-47b9-ac50-967adf6eb906",
       "lesson_path": "lessons/9a4287c7-bd83-47b9-ac50-967adf6eb906/lesson.json"
+    },
+    {
+      "lesson_id": "4684b8a2-fe0d-4382-a625-b9979d82b9d7",
+      "lesson_path": "lessons/4684b8a2-fe0d-4382-a625-b9979d82b9d7/lesson.json"
+    },
+    {
+      "lesson_id": "7c80f937-d90a-414a-a393-c7b4812a1db4",
+      "lesson_path": "lessons/7c80f937-d90a-414a-a393-c7b4812a1db4/lesson.json"
     }
   ]
 }
