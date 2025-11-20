@@ -2,7 +2,7 @@
   "workspace_version": 1,
   "title": "Convoi relationnel de Kévin",
   "owner": "Kevin",
-  "last_updated": "2025-11-15T10:28:36Z",
+  "last_updated": "2025-11-17T12:46:33Z",
   "people": [
     {
       "person_id": "d0ded39e-85d6-4777-9b44-d18c5f31e9db",
@@ -11,13 +11,13 @@
       "person_path": "people/d0ded39e-85d6-4777-9b44-d18c5f31e9db/person.json",
       "contacts": [
         {
+          "contact_id": "9ef6895d-0900-4c02-96b6-687f9429e441",
+          "journal_path": "people/d0ded39e-85d6-4777-9b44-d18c5f31e9db/contacts/9ef6895d-0900-4c02-96b6-687f9429e441/journal.txt"
+        },
+        {
           "contact_id": "0a3b2918-7f3c-4682-9782-60518ec0e5e7",
           "journal_path": "people/d0ded39e-85d6-4777-9b44-d18c5f31e9db/contacts/0a3b2918-7f3c-4682-9782-60518ec0e5e7/journal.txt",
           "transcript_path": "people/d0ded39e-85d6-4777-9b44-d18c5f31e9db/contacts/0a3b2918-7f3c-4682-9782-60518ec0e5e7/journal.txt"
-        },
-        {
-          "contact_id": "9ef6895d-0900-4c02-96b6-687f9429e441",
-          "journal_path": "people/d0ded39e-85d6-4777-9b44-d18c5f31e9db/contacts/9ef6895d-0900-4c02-96b6-687f9429e441/journal.txt"
         }
       ]
     },
@@ -27,6 +27,12 @@
       "circle": "Médiane",
       "person_path": "people/63d82906-49cc-44d8-83b5-13036f55d017/person.json",
       "contacts": [
+        {
+          "contact_id": "92aebbe7-617b-4b70-8e2e-64bf1b5f85f8",
+          "journal_path": "people/63d82906-49cc-44d8-83b5-13036f55d017/contacts/92aebbe7-617b-4b70-8e2e-64bf1b5f85f8/journal.txt",
+          "transcript_path": "people/63d82906-49cc-44d8-83b5-13036f55d017/contacts/92aebbe7-617b-4b70-8e2e-64bf1b5f85f8/transcript.txt",
+          "audio_path": "people/63d82906-49cc-44d8-83b5-13036f55d017/contacts/92aebbe7-617b-4b70-8e2e-64bf1b5f85f8/contact_audio.wav"
+        },
         {
           "contact_id": "9748e266-d6e5-4d09-91d3-eb86cb8cb6b1",
           "journal_path": "people/63d82906-49cc-44d8-83b5-13036f55d017/contacts/9748e266-d6e5-4d09-91d3-eb86cb8cb6b1/journal.txt"
@@ -46,12 +52,6 @@
           "journal_path": "people/63d82906-49cc-44d8-83b5-13036f55d017/contacts/f80c3be6-719d-47e4-9253-9cc0a82f9060/journal.txt",
           "transcript_path": "people/63d82906-49cc-44d8-83b5-13036f55d017/contacts/f80c3be6-719d-47e4-9253-9cc0a82f9060/transcript.txt",
           "audio_path": "people/63d82906-49cc-44d8-83b5-13036f55d017/contacts/f80c3be6-719d-47e4-9253-9cc0a82f9060/contact_audio_ju8vkosw.wav"
-        },
-        {
-          "contact_id": "92aebbe7-617b-4b70-8e2e-64bf1b5f85f8",
-          "journal_path": "people/63d82906-49cc-44d8-83b5-13036f55d017/contacts/92aebbe7-617b-4b70-8e2e-64bf1b5f85f8/journal.txt",
-          "transcript_path": "people/63d82906-49cc-44d8-83b5-13036f55d017/contacts/92aebbe7-617b-4b70-8e2e-64bf1b5f85f8/transcript.txt",
-          "audio_path": "people/63d82906-49cc-44d8-83b5-13036f55d017/contacts/92aebbe7-617b-4b70-8e2e-64bf1b5f85f8/contact_audio.wav"
         }
       ]
     },
@@ -802,19 +802,14 @@
     ],
     "hidden_card_types": [],
     "focus_state": {
-      "headlines": [
-        "4944b8cd-cf21-48f4-8a3a-820d7edbb203"
-      ],
+      "headlines": [],
       "piliers": [
-        "794e37d1-3503-4672-a91b-099097e79a75",
-        "7244af28-ccec-4e9d-9db9-89e022fe3af6"
+        "5485f595-ba5d-47f3-a73e-9d4e4514a7ec"
       ],
       "antivaleurs": [
-        "54f94085-08eb-481d-a4b8-c6c49300055d",
-        "eefe6ce4-0d84-43a7-90bc-a637662225c5",
-        "889952da-a4df-4e98-b54e-76e6a8d88746"
+        "fbc5f5ac-cdb4-4fb5-8c39-4a06f894bd80"
       ],
-      "started_at": "2025-11-07"
+      "started_at": "2025-11-15"
     }
   },
   "guess_points": [],
