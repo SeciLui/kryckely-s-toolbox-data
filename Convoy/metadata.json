@@ -2,7 +2,7 @@
   "workspace_version": 1,
   "title": "Convoi relationnel de Kévin",
   "owner": "Kevin",
-  "last_updated": "2025-11-17T12:46:33Z",
+  "last_updated": "2025-11-20T15:57:05Z",
   "people": [
     {
       "person_id": "d0ded39e-85d6-4777-9b44-d18c5f31e9db",
@@ -323,6 +323,11 @@
       "event_id": "2025-11-12-evenement-5013",
       "title": "Soirée raclette Lainestra (chez Pablo)",
       "event_path": "events/2025-11-12-evenement-5013.json"
+    },
+    {
+      "event_id": "2025-11-20-evenement-b8cf",
+      "title": "After-work WeRoad et rencontres imprévues",
+      "event_path": "events/2025-11-20-evenement-b8cf.json"
     }
   ],
   "campement": {

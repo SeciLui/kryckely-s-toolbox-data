@@ -162,16 +162,53 @@
         }
       },
       "last_imported_at": "2025-11-12T10:53:07Z"
+    },
+    "2025-11-20-evenement-b8cf": {
+      "needs": {
+        "Appartenance & communauté": {
+          "minutes": 20.0,
+          "occ": 1.0
+        },
+        "Nouveauté & exploration": {
+          "minutes": 60.0,
+          "occ": 2.0
+        },
+        "Expression & compréhension émotionnelle": {
+          "minutes": 45.0,
+          "occ": 2.0
+        },
+        "Reconnaissance & validation (estime sociale)": {
+          "minutes": 10.0,
+          "occ": 1.0
+        },
+        "Joie & jeu (affects positifs)": {
+          "minutes": 30.0,
+          "occ": 1.0
+        },
+        "Sens & contribution (bénéficence)": {
+          "minutes": 25.0,
+          "occ": 1.0
+        },
+        "Autonomie & respect des limites": {
+          "minutes": 10.0,
+          "occ": 1.0
+        },
+        "Calme & sécurité (co-régulation)": {
+          "minutes": 15.0,
+          "occ": 1.0
+        }
+      },
+      "last_imported_at": "2025-11-20T15:56:26Z"
     }
   },
   "totals": {
     "Appartenance & communauté": {
-      "minutes": 680.0,
-      "occ": 12.0
+      "minutes": 700.0,
+      "occ": 13.0
     },
     "Joie & jeu (affects positifs)": {
-      "minutes": 555.0,
-      "occ": 14.0
+      "minutes": 585.0,
+      "occ": 15.0
     },
     "Coprésence paisible & routine": {
       "minutes": 670.0,
@@ -182,28 +219,36 @@
       "occ": 3.0
     },
     "Nouveauté & exploration": {
-      "minutes": 165.0,
-      "occ": 5.0
+      "minutes": 225.0,
+      "occ": 7.0
     },
     "Compétence & progression (apprentissage/maîtrise)": {
       "minutes": 30.0,
       "occ": 1.0
     },
     "Expression & compréhension émotionnelle": {
-      "minutes": 40.0,
-      "occ": 1.0
+      "minutes": 85.0,
+      "occ": 3.0
     },
     "Reconnaissance & validation (estime sociale)": {
-      "minutes": 10.0,
-      "occ": 1.0
+      "minutes": 20.0,
+      "occ": 2.0
     },
     "Soutien pratique & fiabilité (instrumental/informationnel)": {
       "minutes": 80.0,
       "occ": 3.0
     },
     "Calme & sécurité (co-régulation)": {
-      "minutes": 85.0,
-      "occ": 3.0
+      "minutes": 100.0,
+      "occ": 4.0
+    },
+    "Sens & contribution (bénéficence)": {
+      "minutes": 25.0,
+      "occ": 1.0
+    },
+    "Autonomie & respect des limites": {
+      "minutes": 10.0,
+      "occ": 1.0
     }
   }
 }
