@@ -1,0 +1,24 @@
+{
+  "version": "chat-links-v1",
+  "categories": [
+    {
+      "id": "5d92ac72-4b3a-451b-b978-621a038c8b17",
+      "name": "MeetingApp"
+    }
+  ],
+  "category_order": [
+    "5d92ac72-4b3a-451b-b978-621a038c8b17"
+  ],
+  "hidden_links": [],
+  "links": [
+    {
+      "id": "2f7509b9-724c-44c9-8fcb-06c041b3ce2d",
+      "category_id": "5d92ac72-4b3a-451b-b978-621a038c8b17",
+      "url": "https://chatgpt.com/c/684abe4e-c484-8012-88ed-a93f9d08d125",
+      "title": "",
+      "notes": "test",
+      "created_at": "2025-11-21T10:53:17Z",
+      "updated_at": "2025-11-21T11:04:36Z"
+    }
+  ]
+}

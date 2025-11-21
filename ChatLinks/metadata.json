@@ -1,0 +1,9 @@
+{
+  "app": "ChatGPT Links",
+  "version": "chat-links-v1",
+  "links_path": "chat_links/links.json",
+  "categories": [
+    "MeetingApp"
+  ],
+  "count": 1
+}
