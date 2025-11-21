@@ -21,6 +21,18 @@
       "simple_contact": true,
       "simple_contact_type": "message",
       "simple_contact_label": "Message (texte)"
+    },
+    {
+      "contact_id": "d6f20043-5e6f-438f-869d-0b562d15719c",
+      "date": "2025-11-20",
+      "start": null,
+      "end": null,
+      "minutes": 0,
+      "channel": "text_async",
+      "journal_path": "people/737cc56d-c9ce-417f-add9-c22ba886cb74/contacts/d6f20043-5e6f-438f-869d-0b562d15719c/journal.txt",
+      "simple_contact": true,
+      "simple_contact_type": "message",
+      "simple_contact_label": "Message (texte)"
     }
   ],
   "ambivalent": false,

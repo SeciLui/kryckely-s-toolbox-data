@@ -2,7 +2,7 @@
   "workspace_version": 1,
   "title": "Convoi relationnel de Kévin",
   "owner": "Kevin",
-  "last_updated": "2025-11-20T15:57:05Z",
+  "last_updated": "2025-11-21T08:56:51Z",
   "people": [
     {
       "person_id": "d0ded39e-85d6-4777-9b44-d18c5f31e9db",
@@ -52,6 +52,10 @@
           "journal_path": "people/63d82906-49cc-44d8-83b5-13036f55d017/contacts/f80c3be6-719d-47e4-9253-9cc0a82f9060/journal.txt",
           "transcript_path": "people/63d82906-49cc-44d8-83b5-13036f55d017/contacts/f80c3be6-719d-47e4-9253-9cc0a82f9060/transcript.txt",
           "audio_path": "people/63d82906-49cc-44d8-83b5-13036f55d017/contacts/f80c3be6-719d-47e4-9253-9cc0a82f9060/contact_audio_ju8vkosw.wav"
+        },
+        {
+          "contact_id": "45539eed-559c-4dbf-a738-2c45bfc8d62c",
+          "journal_path": "people/63d82906-49cc-44d8-83b5-13036f55d017/contacts/45539eed-559c-4dbf-a738-2c45bfc8d62c/journal.txt"
         }
       ]
     },
@@ -110,6 +114,10 @@
         {
           "contact_id": "30ca4c49-c4e3-46c2-9669-8f4c6ce4e763",
           "journal_path": "people/71abe08f-43dc-4200-b054-e31aca780e45/contacts/30ca4c49-c4e3-46c2-9669-8f4c6ce4e763/journal.txt"
+        },
+        {
+          "contact_id": "cbe4d9dc-6117-4f50-88df-732886a096ce",
+          "journal_path": "people/71abe08f-43dc-4200-b054-e31aca780e45/contacts/cbe4d9dc-6117-4f50-88df-732886a096ce/journal.txt"
         }
       ]
     },
@@ -248,6 +256,10 @@
         {
           "contact_id": "c32f09ae-c7c2-43f8-8c11-cf062d11a9be",
           "journal_path": "people/737cc56d-c9ce-417f-add9-c22ba886cb74/contacts/c32f09ae-c7c2-43f8-8c11-cf062d11a9be/journal.txt"
+        },
+        {
+          "contact_id": "d6f20043-5e6f-438f-869d-0b562d15719c",
+          "journal_path": "people/737cc56d-c9ce-417f-add9-c22ba886cb74/contacts/d6f20043-5e6f-438f-869d-0b562d15719c/journal.txt"
         }
       ]
     },
@@ -272,6 +284,10 @@
         {
           "contact_id": "57a51707-c8b8-4adf-ad7b-5f9990fe4e29",
           "journal_path": "people/26586324-78c1-4810-b2c5-4a9b05997b4e/contacts/57a51707-c8b8-4adf-ad7b-5f9990fe4e29/journal.txt"
+        },
+        {
+          "contact_id": "6b1adff3-7dee-44f5-b1e5-1ac771ff03e7",
+          "journal_path": "people/26586324-78c1-4810-b2c5-4a9b05997b4e/contacts/6b1adff3-7dee-44f5-b1e5-1ac771ff03e7/journal.txt"
         }
       ]
     },
@@ -331,7 +347,7 @@
     }
   ],
   "campement": {
-    "show_ghost_contacts": false
+    "show_ghost_contacts": true
   },
   "identity": {
     "version": "cards-v1",
