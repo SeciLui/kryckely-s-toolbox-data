@@ -1,0 +1,100 @@
+{
+  "event_id": "2025-11-24-evenement-5b31",
+  "title": "Discussions chez Aïda en soirée",
+  "date": "2025-11-22",
+  "start": "10:00",
+  "end": "21:30",
+  "channel": "in_person",
+  "context": "Rencontre informelle après une journée d’événement social",
+  "location": "Chez Aïda",
+  "participants": [
+    "Aïda",
+    "William"
+  ],
+  "summary": "Comment c'est ma joie en allant au conseil public en face de votre milieu sur notre style pour justement faire pour la première fois un conversation et un événement créé par l'association Fusion, notamment Johanna, pour rencontrer des gens et pour améliorer l'anglais en langue. C'est fascinant, passionnant, c'est vraiment trop intéressant. On a eu des projets, enfin pas de projets, des sujets qui m'intéressent vraiment, notamment des sujets sur la maquillibilité, sur les différences entre les différences humaines, sur comment ils pensent sur la solitude, sur la binarisation des genres, sur la différence de culture, sur l'éducation. C'était vraiment bien. Et en fait, j'ai eu des compliments, soit d'une personne qui est la directrice de la martinière, donc ça c'est tout. Elle était propre d'anglais aussi. Et apparemment bien. Il m'a fait des compliments sur mon pull, sur le fait que c'est passionnant ce que je dis, c'est plus de semblant. Et apparemment, oui, on était un bon groupe. Voilà. Sur cette suite, j'ai été le balader dans le monde. J'ai été voir différents lieux, etc. Et je termine par, quand je fais l'impasse sur cette situation, techniquement, j'ai été voir un marché de Noël, j'ai été voir des lieux qui étaient assez intéressants par rapport à mes valeurs. Et ensuite, j'ai été voir des friperies coulants. Voilà. Et ensuite, j'ai été voir effectivement William. William, qui était avec la maman de Béré, Bérénice et Delphine. Donc, on a dit une chose. J'ai pris des points bien précis. C'était agréable. Voilà. Et ensuite, on termine par aller chez Aïda. Et là, ça devient très intéressant. Et donc, avec Aïda, Aïda nous en dit chez elle parce qu'elle n'était pas trop chaude. de sortir. Donc, on va chez elle. Je crois que son conjoint part. Voilà. Simplement, il partait. Et ensuite, Aïda. Et là, on discute tant de choses. Effectivement, William, c'est Aïda, c'est incroyable. Et là, c'est vrai que William a tendance à prendre quand même pas mal de place dans cette circonstance. C'est assez fascinant. Mais bref. Et donc, William, il commence et on arrive sur une discussion sur les émotions. Sur le fait de décrire nos émotions. Sur le fait de se dire, bah tiens, moi, j'ai un journal, je l'écris. Mais en fait, j'écris de manière somatique ce que je ressens. Pas que de l'analyse. Voilà. Et donc, on continue là-dessus. Et après, finalement, William commence à prendre ça. Et moi, je vais continuer à discuter avec Aïda. Elle est en parallèle en train de m'accorder. C'est fun. Et bref, finalement, on continue sur des discussions, notamment sur les apps de rencontre, sur l'amour, sur les relations. Donc, des sujets qui me passionnent. C'est assez fascinant à quel point... Là où avec William, ou même Alan, je suis plutôt sur une réflexion, mais je reste sur quelque chose de... Alors, j'ai pas eu un espèce de goût amer, de réflexion. Alors que là, c'est autant agréable, autant nourrissant. Parce que je sais pas. C'est comme si... Ce qu'elle me dit... En fait, ce qu'elle me dit, c'est pas vu du même angle. Et ça m'atteignait d'une autre manière. Ça me faisait réfléchir d'une autre manière, mais... En fait, j'arrive à passer outre. Et c'est vrai que je me rappelle qu'il y avait des moments où c'était... Vraiment, ça me remettait en question. Littéralement. Mais tellement que... Sur le moment, j'étais détruit. Donc, euh... Fascinant. C'était effectivement trop, trop bien. Finalement, elle m'a fait un bon profil pour les apps de rencontre. Donc, c'est assez cool. Et voilà. Un super fan. Vraiment. Merci.",
+  "analysis_ref": {
+    "version": 1,
+    "last_imported_at": "2025-11-24T14:18:02Z",
+    "hash_of_prompt": "3897374e4065e1c654c209fe311b3ad9b24ceed2244c8dc87988cee568920b1a",
+    "hash_of_result": "b58a83527d022c7179146b5baad2cebab230e2eccd02d87b4b009d5b3cf6cc80"
+  },
+  "audio_path": "events/assets/2025-11-24-evenement-5b31/event_audio.wav",
+  "transcript_path": "events/assets/2025-11-24-evenement-5b31/transcript.txt",
+  "analysis_result": {
+    "group_needs": {
+      "Appartenance & communauté": {
+        "minutes": 60.0,
+        "occ": 1.0
+      },
+      "Expression & compréhension émotionnelle": {
+        "minutes": 40.0,
+        "occ": 1.0
+      },
+      "Joie & jeu (affects positifs)": {
+        "minutes": 30.0,
+        "occ": 1.0
+      },
+      "Co-création & collaboration (agir-avec)": {
+        "minutes": 20.0,
+        "occ": 1.0
+      }
+    },
+    "per_person": {
+      "Aïda": {
+        "needs": {
+          "Expression & compréhension émotionnelle": {
+            "minutes": 40.0,
+            "occ": 1.0
+          },
+          "Appartenance & communauté": {
+            "minutes": 30.0,
+            "occ": 1.0
+          },
+          "Reconnaissance & validation (estime sociale)": {
+            "minutes": 20.0,
+            "occ": 1.0
+          },
+          "Co-création & collaboration (agir-avec)": {
+            "minutes": 20.0,
+            "occ": 1.0
+          }
+        },
+        "notes": ""
+      },
+      "William": {
+        "needs": {
+          "Expression & compréhension émotionnelle": {
+            "minutes": 20.0,
+            "occ": 1.0
+          },
+          "Appartenance & communauté": {
+            "minutes": 20.0,
+            "occ": 1.0
+          }
+        },
+        "notes": ""
+      }
+    },
+    "event_details": {
+      "title": "Discussions chez Aïda en soirée",
+      "context": "Rencontre informelle après une journée d’événement social",
+      "location": "Chez Aïda",
+      "channel": "in_person"
+    }
+  },
+  "state_before_after": {
+    "energy": [
+      1,
+      2
+    ],
+    "rumination": [
+      1,
+      0
+    ],
+    "mood": "+1"
+  },
+  "analysis_warnings": [
+    "Durées estimées de manière conservatrice en l’absence d’horaires précis.",
+    "Le récit inclut d’autres personnes non autorisées dans les participants ; seules les interactions avec Aïda et William ont été retenues."
+  ]
+}

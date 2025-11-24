@@ -2,7 +2,7 @@
   "workspace_version": 1,
   "title": "Convoi relationnel de Kévin",
   "owner": "Kevin",
-  "last_updated": "2025-11-21T08:56:51Z",
+  "last_updated": "2025-11-24T14:18:39Z",
   "people": [
     {
       "person_id": "d0ded39e-85d6-4777-9b44-d18c5f31e9db",
@@ -56,6 +56,10 @@
         {
           "contact_id": "45539eed-559c-4dbf-a738-2c45bfc8d62c",
           "journal_path": "people/63d82906-49cc-44d8-83b5-13036f55d017/contacts/45539eed-559c-4dbf-a738-2c45bfc8d62c/journal.txt"
+        },
+        {
+          "contact_id": "dc68fe0b-2451-40bf-b957-fd6257d885ba",
+          "journal_path": "people/63d82906-49cc-44d8-83b5-13036f55d017/contacts/dc68fe0b-2451-40bf-b957-fd6257d885ba/journal.txt"
         }
       ]
     },
@@ -146,6 +150,10 @@
         {
           "contact_id": "0fdd1e19-0274-4256-bfa1-21358de2ca9f",
           "journal_path": "people/0af2fa32-f387-453f-811c-d70e005b02d1/contacts/0fdd1e19-0274-4256-bfa1-21358de2ca9f/journal.txt"
+        },
+        {
+          "contact_id": "bb83a2ae-d9a9-4216-87b0-757ca95b029b",
+          "journal_path": "people/0af2fa32-f387-453f-811c-d70e005b02d1/contacts/bb83a2ae-d9a9-4216-87b0-757ca95b029b/journal.txt"
         }
       ]
     },
@@ -272,6 +280,10 @@
         {
           "contact_id": "862392d6-5f85-4150-931d-1dc1f53ad1f1",
           "journal_path": "people/2d671cdb-72cf-4b2d-88d0-ec308b833997/contacts/862392d6-5f85-4150-931d-1dc1f53ad1f1/journal.txt"
+        },
+        {
+          "contact_id": "b3d3db7d-1c90-418e-88da-0d6447808113",
+          "journal_path": "people/2d671cdb-72cf-4b2d-88d0-ec308b833997/contacts/b3d3db7d-1c90-418e-88da-0d6447808113/journal.txt"
         }
       ]
     },
@@ -300,6 +312,10 @@
         {
           "contact_id": "d1dc0467-318c-48b8-b4d4-61ca0a028f4e",
           "journal_path": "people/7605ccf0-f2df-4771-9d4b-538f3f79d308/contacts/d1dc0467-318c-48b8-b4d4-61ca0a028f4e/journal.txt"
+        },
+        {
+          "contact_id": "83d565bc-efcd-4213-8df7-2b2d93aec1cd",
+          "journal_path": "people/7605ccf0-f2df-4771-9d4b-538f3f79d308/contacts/83d565bc-efcd-4213-8df7-2b2d93aec1cd/journal.txt"
         }
       ]
     }
@@ -344,6 +360,16 @@
       "event_id": "2025-11-20-evenement-b8cf",
       "title": "After-work WeRoad et rencontres imprévues",
       "event_path": "events/2025-11-20-evenement-b8cf.json"
+    },
+    {
+      "event_id": "2025-11-24-evenement-2a5a",
+      "title": "Conversation audio sur serveur jeune entrepreneur",
+      "event_path": "events/2025-11-24-evenement-2a5a.json"
+    },
+    {
+      "event_id": "2025-11-24-evenement-5b31",
+      "title": "Discussions chez Aïda en soirée",
+      "event_path": "events/2025-11-24-evenement-5b31.json"
     }
   ],
   "campement": {

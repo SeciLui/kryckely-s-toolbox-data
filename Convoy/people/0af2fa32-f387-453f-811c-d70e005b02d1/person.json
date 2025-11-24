@@ -10,23 +10,19 @@
   "needs_nourished": [],
   "need_support": {
     "Expression & compréhension émotionnelle": {
-      "minutes_per_week": 15.0,
-      "occ_per_week": 0.5
+      "minutes_per_week": 10.0,
+      "occ_per_week": 0.25
     },
-    "Intimité & attachement": {
+    "Appartenance & communauté": {
+      "minutes_per_week": 7.5,
+      "occ_per_week": 0.25
+    },
+    "Reconnaissance & validation (estime sociale)": {
       "minutes_per_week": 5.0,
       "occ_per_week": 0.25
     },
-    "Calme & sécurité (co-régulation)": {
+    "Co-création & collaboration (agir-avec)": {
       "minutes_per_week": 5.0,
-      "occ_per_week": 0.25
-    },
-    "Coprésence paisible & routine": {
-      "minutes_per_week": 2.5,
-      "occ_per_week": 0.25
-    },
-    "Toucher & chaleur affective": {
-      "minutes_per_week": 0.25,
       "occ_per_week": 0.25
     }
   },
@@ -48,6 +44,63 @@
       "minutes": 50,
       "channel": "in_person",
       "journal_path": "people/0af2fa32-f387-453f-811c-d70e005b02d1/contacts/0fdd1e19-0274-4256-bfa1-21358de2ca9f/journal.txt"
+    },
+    {
+      "contact_id": "bb83a2ae-d9a9-4216-87b0-757ca95b029b",
+      "date": "2025-11-22",
+      "start": "10:00",
+      "end": "21:30",
+      "channel": "in_person",
+      "summary": "Dérivé de l’événement 2025-11-24-evenement-5b31. Comment c'est ma joie en allant au conseil public en face de votre milieu sur notre style pour justement faire pour la première fois un conversation et un év...",
+      "source": "event:2025-11-24-evenement-5b31",
+      "event_id": "2025-11-24-evenement-5b31",
+      "needs_contrib": {
+        "Expression & compréhension émotionnelle": {
+          "minutes": 40.0,
+          "occ": 1.0
+        },
+        "Appartenance & communauté": {
+          "minutes": 30.0,
+          "occ": 1.0
+        },
+        "Reconnaissance & validation (estime sociale)": {
+          "minutes": 20.0,
+          "occ": 1.0
+        },
+        "Co-création & collaboration (agir-avec)": {
+          "minutes": 20.0,
+          "occ": 1.0
+        }
+      },
+      "minutes": 110,
+      "event_details": {
+        "title": "Discussions chez Aïda en soirée",
+        "context": "Rencontre informelle après une journée d’événement social",
+        "location": "Chez Aïda",
+        "channel": "in_person",
+        "per_person": {
+          "needs": {
+            "Expression & compréhension émotionnelle": {
+              "minutes": 40.0,
+              "occ": 1.0
+            },
+            "Appartenance & communauté": {
+              "minutes": 30.0,
+              "occ": 1.0
+            },
+            "Reconnaissance & validation (estime sociale)": {
+              "minutes": 20.0,
+              "occ": 1.0
+            },
+            "Co-création & collaboration (agir-avec)": {
+              "minutes": 20.0,
+              "occ": 1.0
+            }
+          },
+          "notes": ""
+        }
+      },
+      "journal_path": "people/0af2fa32-f387-453f-811c-d70e005b02d1/contacts/bb83a2ae-d9a9-4216-87b0-757ca95b029b/journal.txt"
     }
   ],
   "ambivalent": false,

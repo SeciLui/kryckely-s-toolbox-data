@@ -1,0 +1,69 @@
+{
+  "event_id": "2025-11-24-evenement-2a5a",
+  "title": "Conversation audio sur serveur jeune entrepreneur",
+  "date": "2025-11-20",
+  "start": "",
+  "end": "",
+  "channel": "audio_call",
+  "context": "Discussion spontanée avec plusieurs personnes, échanges d'idées et confrontation de perspectives",
+  "location": "Serveur discord Jeune Entrepreneur",
+  "participants": [],
+  "summary": "Alors, c'était un jeudi soir, c'était, il discutait sur le serveur jeune entrepreneur, et là il proposait d'aller sur le vocab. Moi c'était le seul moment où justement je ne sortais pas, mais toujours en discute avec des gens, et là pour le coup c'était l'occasion, je voulais faire un info où ils se faisaient bien ensemble. Et voilà, et donc j'étais dans l'audio et j'ai commencé le discuque avec Ellie, et c'était super fascinant. Et le truc encore plus ouf, c'est que, déjà on a parlé de nos projets, et maintenant, la scène très posée, assez impressionnante sur ce côté-là. Et ce qui était assez improbable, c'est que, donc Ellie plus ça, et bien ils connaissent très très libyens. Et donc c'était vraiment fascinant pour le coup. Donc voilà, et puis après il y a Dina, qui s'est arrivé à l'extraterrestre. Et c'est fou à quel point cette personne est fascinante. très très différente, et personne n'avait tout petit peu côtoyée. Qui se laisse vraiment être la personne qui y avait. Et qui laisse pas sa langue dans sa bouche, clairement. Sa langue dans sa poche, plutôt. Et donc, c'était assez fascinant, puisque je pense que, au-delà de la conversation, ça m'a permis d'être fier sur des points. Notamment sur le fait de, à quel point je me rends sensible, à quel point je me rends fort avec mes émotions. En fait, au fur et à mesure que je travaille, je me rends compte que ça, c'est tout à fait bien ce que je suis en train de faire. C'est de la force. Donc, je ne suis pas dedans. Mais c'est intéressant d'avoir un écho de cloche et une manière de penser. Et pour moi, pas nécessairement opposé, mais quand même assez opposé. En principe, moi, je valide que c'est vraiment humain ce qu'il est. Et en fait, eux, ils vont plutôt... Sandina va plutôt avoir comme approche le fait que le monde est pâle, c'est mauvais. Et tout le monde est horrible. Et il faut s'en rendre compte et il faut être suffisamment intelligent. Et elle était très indique elle-même. Et ça, c'est quelque chose que, de manière de base, c'est une valeur que je déteste. Le fait de dire qu'on est les plus forts, qu'on est les meilleurs. Je suis tellement opposé à ça que c'est assez intéressant. Et c'est ça que je me suis rendu compte. J'ai réfléchi avec la GPT, effectivement, sur le fait que... C'est aussi une grande puissance d'être capable de réfléchir. Et de prendre en compte ou d'accepter, dans le fond, d'apprendre des personnes qui n'ont pas nécessairement des valeurs qui sont les mêmes que les jeunes. Donc, voilà. C'est très fascinant, pour le coup. Et ce que... Je pense qu'à la fin, j'étais content. Mais à la fois, en fait, c'est une conversation un peu lunaire, d'une certaine manière. Je veux dire ce genre de conversation. Waouh ! On a discuté de choses passionnantes. Mais d'habitude, tu as discuté avec des amis avec lesquels on s'entend vraiment là-dessus. Et les choses où on ne s'entend pas avec certains amis, c'est des choses que je ne parle pas automatiquement. Parce que je sais. Et là, c'est fou. Il y a une confrontation d'idées, mais vraiment forte. Et confrontation de manière de penser et de manière d'être. Il était assez fascinant. Je pense que c'était fascinant. C'était un apprentissage. Mais je ne saurais rien dire. Je pense que je me suis senti bien, quand même, à la fin, d'une certaine manière. Mais c'est un peu réfléchi. Je ne sais pas. Je ne sais pas. Justement, s'ils ont des valeurs opposées aux miennes, c'est qu'à un moment... Enfin, voilà. Mais en même temps, ils ont cette manière de réfléchir aussi. Qui est intéressant. Donc, en fait, ils ne sont pas totalement opposés à moi.",
+  "analysis_ref": {
+    "version": 1,
+    "last_imported_at": "2025-11-24T14:06:15Z",
+    "hash_of_prompt": "077fc558d9e44c8c6de18e73b9bbf686bae24e293ed638c944534b185135a29b",
+    "hash_of_result": "584e6583603739d602d579f360474d09797788e62d3dfcc5d38d09d2fc4a69dd"
+  },
+  "audio_path": "events/assets/2025-11-24-evenement-2a5a/event_audio.wav",
+  "transcript_path": "events/assets/2025-11-24-evenement-2a5a/transcript.txt",
+  "analysis_result": {
+    "group_needs": {
+      "Expression & compréhension émotionnelle": {
+        "minutes": 20.0,
+        "occ": 3.0
+      },
+      "Nouveauté & exploration": {
+        "minutes": 25.0,
+        "occ": 3.0
+      },
+      "Appartenance & communauté": {
+        "minutes": 10.0,
+        "occ": 1.0
+      },
+      "Reconnaissance & validation (estime sociale)": {
+        "minutes": 10.0,
+        "occ": 1.0
+      },
+      "Co-création & collaboration (agir-avec)": {
+        "minutes": 10.0,
+        "occ": 1.0
+      },
+      "Compétence & progression (apprentissage/maîtrise)": {
+        "minutes": 20.0,
+        "occ": 2.0
+      }
+    },
+    "per_person": {},
+    "event_details": {
+      "title": "Conversation audio sur serveur jeune entrepreneur",
+      "context": "Discussion spontanée avec plusieurs personnes, échanges d'idées et confrontation de perspectives",
+      "channel": "audio_call"
+    }
+  },
+  "state_before_after": {
+    "energy": [
+      1,
+      1
+    ],
+    "rumination": [
+      1,
+      1
+    ],
+    "mood": "+1"
+  },
+  "analysis_warnings": [
+    "Peu d'informations précises sur la durée réelle et l'intensité des échanges. Estimations conservatrices.",
+    "Les participants nommés dans le récit ne peuvent pas être inclus car la liste autorisée est vide."
+  ]
+}
