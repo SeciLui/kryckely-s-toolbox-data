@@ -4,13 +4,18 @@
   "links_path": "chat_links/links.json",
   "categories": [
     "MeetingApp",
-    "MesGouts"
+    "MesGouts",
+    "Masterclasse"
   ],
-  "count": 1,
+  "count": 2,
   "imports": [
     {
       "card_id": "09eaa50e-fd58-43ec-8b85-293dfbf3e986",
       "path": "chat_links/cards/09eaa50e-fd58-43ec-8b85-293dfbf3e986-42779a3a/2025-11-28_Analyse_de_goûts_musicaux.json"
+    },
+    {
+      "card_id": "10a2a721-afdc-4510-9f91-4a7757d57037",
+      "path": "chat_links/cards/10a2a721-afdc-4510-9f91-4a7757d57037-59f57119/2025-11-28_Masterclass_communication_compétences.json"
     }
   ]
 }
