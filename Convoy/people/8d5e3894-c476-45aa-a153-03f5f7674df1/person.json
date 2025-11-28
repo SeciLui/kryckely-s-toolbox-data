@@ -28,6 +28,18 @@
   },
   "contacts": [
     {
+      "contact_id": "3ef2e796-ec83-486a-8886-08b171dff35b",
+      "date": "2025-11-28",
+      "start": null,
+      "end": null,
+      "minutes": 0,
+      "channel": "text_async",
+      "journal_path": "people/8d5e3894-c476-45aa-a153-03f5f7674df1/contacts/3ef2e796-ec83-486a-8886-08b171dff35b/journal.txt",
+      "simple_contact": true,
+      "simple_contact_type": "message",
+      "simple_contact_label": "Message (texte)"
+    },
+    {
       "contact_id": "1190e895-3720-4d29-bf42-968fb9086fff",
       "date": "2025-10-31",
       "start": "18:00",

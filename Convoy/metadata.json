@@ -2,7 +2,7 @@
   "workspace_version": 1,
   "title": "Convoi relationnel de Kévin",
   "owner": "Kevin",
-  "last_updated": "2025-11-25T16:40:40Z",
+  "last_updated": "2025-11-28T11:05:26Z",
   "people": [
     {
       "person_id": "d0ded39e-85d6-4777-9b44-d18c5f31e9db",
@@ -112,6 +112,10 @@
       "person_path": "people/71abe08f-43dc-4200-b054-e31aca780e45/person.json",
       "contacts": [
         {
+          "contact_id": "cbe4d9dc-6117-4f50-88df-732886a096ce",
+          "journal_path": "people/71abe08f-43dc-4200-b054-e31aca780e45/contacts/cbe4d9dc-6117-4f50-88df-732886a096ce/journal.txt"
+        },
+        {
           "contact_id": "c2d60835-3b3d-4a1f-a470-b9bae5f6afdc",
           "journal_path": "people/71abe08f-43dc-4200-b054-e31aca780e45/contacts/c2d60835-3b3d-4a1f-a470-b9bae5f6afdc/journal.txt",
           "transcript_path": "people/71abe08f-43dc-4200-b054-e31aca780e45/contacts/c2d60835-3b3d-4a1f-a470-b9bae5f6afdc/transcript.txt",
@@ -126,8 +130,8 @@
           "journal_path": "people/71abe08f-43dc-4200-b054-e31aca780e45/contacts/30ca4c49-c4e3-46c2-9669-8f4c6ce4e763/journal.txt"
         },
         {
-          "contact_id": "cbe4d9dc-6117-4f50-88df-732886a096ce",
-          "journal_path": "people/71abe08f-43dc-4200-b054-e31aca780e45/contacts/cbe4d9dc-6117-4f50-88df-732886a096ce/journal.txt"
+          "contact_id": "63d3f0a7-efda-4e58-9ade-723171ee9df7",
+          "journal_path": "people/71abe08f-43dc-4200-b054-e31aca780e45/contacts/63d3f0a7-efda-4e58-9ade-723171ee9df7/journal.txt"
         }
       ]
     },
@@ -237,6 +241,10 @@
       "circle": "Médiane",
       "person_path": "people/8d5e3894-c476-45aa-a153-03f5f7674df1/person.json",
       "contacts": [
+        {
+          "contact_id": "3ef2e796-ec83-486a-8886-08b171dff35b",
+          "journal_path": "people/8d5e3894-c476-45aa-a153-03f5f7674df1/contacts/3ef2e796-ec83-486a-8886-08b171dff35b/journal.txt"
+        },
         {
           "contact_id": "1190e895-3720-4d29-bf42-968fb9086fff",
           "journal_path": "people/8d5e3894-c476-45aa-a153-03f5f7674df1/contacts/1190e895-3720-4d29-bf42-968fb9086fff/journal.txt"

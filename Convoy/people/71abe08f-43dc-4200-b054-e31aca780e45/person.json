@@ -39,6 +39,18 @@
   },
   "contacts": [
     {
+      "contact_id": "cbe4d9dc-6117-4f50-88df-732886a096ce",
+      "date": "2025-11-20",
+      "start": null,
+      "end": null,
+      "minutes": 0,
+      "channel": "text_async",
+      "journal_path": "people/71abe08f-43dc-4200-b054-e31aca780e45/contacts/cbe4d9dc-6117-4f50-88df-732886a096ce/journal.txt",
+      "simple_contact": true,
+      "simple_contact_type": "message",
+      "simple_contact_label": "Message (texte)"
+    },
+    {
       "contact_id": "c2d60835-3b3d-4a1f-a470-b9bae5f6afdc",
       "date": "2025-11-12",
       "start": "19:00",
@@ -70,16 +82,16 @@
       "journal_path": "people/71abe08f-43dc-4200-b054-e31aca780e45/contacts/30ca4c49-c4e3-46c2-9669-8f4c6ce4e763/journal.txt"
     },
     {
-      "contact_id": "cbe4d9dc-6117-4f50-88df-732886a096ce",
-      "date": "2025-11-20",
+      "contact_id": "63d3f0a7-efda-4e58-9ade-723171ee9df7",
+      "date": "2025-11-27",
       "start": null,
       "end": null,
       "minutes": 0,
-      "channel": "text_async",
-      "journal_path": "people/71abe08f-43dc-4200-b054-e31aca780e45/contacts/cbe4d9dc-6117-4f50-88df-732886a096ce/journal.txt",
+      "channel": "audio_call",
+      "journal_path": "people/71abe08f-43dc-4200-b054-e31aca780e45/contacts/63d3f0a7-efda-4e58-9ade-723171ee9df7/journal.txt",
       "simple_contact": true,
-      "simple_contact_type": "message",
-      "simple_contact_label": "Message (texte)"
+      "simple_contact_type": "audio_message",
+      "simple_contact_label": "Message audio"
     }
   ],
   "ambivalent": false,
