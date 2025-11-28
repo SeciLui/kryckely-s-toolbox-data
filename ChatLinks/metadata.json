@@ -1,9 +1,16 @@
 {
   "app": "ChatGPT Links",
-  "version": "chat-links-v1",
+  "version": "chat-links-v2",
   "links_path": "chat_links/links.json",
   "categories": [
-    "MeetingApp"
+    "MeetingApp",
+    "MesGouts"
   ],
-  "count": 1
+  "count": 1,
+  "imports": [
+    {
+      "card_id": "09eaa50e-fd58-43ec-8b85-293dfbf3e986",
+      "path": "chat_links/cards/09eaa50e-fd58-43ec-8b85-293dfbf3e986-42779a3a/2025-11-28_Analyse_de_goûts_musicaux.json"
+    }
+  ]
 }
